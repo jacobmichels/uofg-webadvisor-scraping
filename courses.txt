@@ -1,0 +1,2222 @@
+ACCT*1220*0101 (6165) Intro Financial Accounting
+ACCT*1220*0102 (6166) Intro Financial Accounting
+ACCT*1220*0103 (6167) Intro Financial Accounting
+ACCT*1220*0104 (6168) Intro Financial Accounting
+ACCT*1220*0105 (6169) Intro Financial Accounting
+ACCT*1220*0106 (6170) Intro Financial Accounting
+ACCT*1220*0107 (6171) Intro Financial Accounting
+ACCT*1220*0108 (6172) Intro Financial Accounting
+ACCT*1220*0109 (6173) Intro Financial Accounting
+ACCT*1220*0110 (6174) Intro Financial Accounting
+ACCT*1220*0211 (6175) Intro Financial Accounting
+ACCT*1220*0212 (6176) Intro Financial Accounting
+ACCT*1220*0213 (6177) Intro Financial Accounting
+ACCT*1220*0214 (6178) Intro Financial Accounting
+ACCT*1220*0215 (6179) Intro Financial Accounting
+ACCT*1220*0216 (6180) Intro Financial Accounting
+ACCT*1220*0217 (6181) Intro Financial Accounting
+ACCT*1220*0218 (6182) Intro Financial Accounting
+ACCT*1220*0219 (6183) Intro Financial Accounting
+ACCT*1220*0220 (6184) Intro Financial Accounting
+ACCT*1220*DE01 (6185) Intro Financial Accounting
+ACCT*1240*01 (6186) Applied Financial Accounting
+ACCT*1240*02 (6187) Applied Financial Accounting
+ACCT*2230*01 (6188) Management Accounting
+ACCT*2230*DE01 (6189) Management Accounting
+ACCT*3230*01 (6190) Intermediate Mngmt Accounting
+ACCT*3230*02 (6191) Intermediate Mngmt Accounting
+ACCT*3230*03 (6192) Intermediate Mngmt Accounting
+ACCT*3230*04 (6193) Intermediate Mngmt Accounting
+ACCT*3330*01 (6194) Intermed Financial Account I
+ACCT*3330*02 (6195) Intermed Financial Account I
+ACCT*4220*01 (6196) Advanced Financial Accounting
+ACCT*4230*01 (6197) Advanced Management Accounting
+ACCT*4230*02 (6198) Advanced Management Accounting
+ACCT*4290*01 (6199) IT Auditing & Data Analytics
+ACCT*4290*02 (6200) IT Auditing & Data Analytics
+ACCT*4340*01 (6201) Accounting Theory
+ACCT*4440*01 (6202) Integrated Cases in Accounting
+ACCT*4440*02 (6203) Integrated Cases in Accounting
+AGR*2050*01 (6204) Agroecology
+AGR*2500*01 (6205) Field Crse Int'l Agriculture
+AGR*3010*01 (6206) Spec. Studies in Agr. Sci. I
+AGR*4010*01 (6207) Spec. Studies in Agr. Sci. II
+AGR*4450*01 (6208) Research Project I
+AGR*4460*01 (6209) Research Project II
+AGR*4600*01 (8972) Agriculture and Food Issues
+ANSC*1210*0101 (6210) Animal Care & Welfare
+ANSC*1210*0102 (6211) Animal Care & Welfare
+ANSC*1210*0103 (6212) Animal Care & Welfare
+ANSC*1210*0104 (6213) Animal Care & Welfare
+ANSC*1210*0105 (6214) Animal Care & Welfare
+ANSC*1210*0106 (6215) Animal Care & Welfare
+ANSC*1210*0107 (6216) Animal Care & Welfare
+ANSC*1210*0108 (6217) Animal Care & Welfare
+ANSC*1210*0109 (6218) Animal Care & Welfare
+ANSC*1210*0110 (6219) Animal Care & Welfare
+ANSC*1210*0111 (6220) Animal Care & Welfare
+ANSC*1210*0112 (6221) Animal Care & Welfare
+ANSC*1210*0113 (6222) Animal Care & Welfare
+ANSC*1210*0114 (6223) Animal Care & Welfare
+ANSC*1210*0115 (6224) Animal Care & Welfare
+ANSC*1210*0116 (6225) Animal Care & Welfare
+ANSC*1210*0117 (6226) Animal Care & Welfare
+ANSC*2340*01 (6227) Structure of Farm Animals
+ANSC*3040*0102 (6228) Animal Reproduction
+ANSC*3040*0103 (6229) Animal Reproduction
+ANSC*3040*0104 (6230) Animal Reproduction
+ANSC*3040*0105 (6231) Animal Reproduction
+ANSC*3040*0106 (6232) Animal Reproduction
+ANSC*3040*0108 (6233) Animal Reproduction
+ANSC*3040*0109 (6234) Animal Reproduction
+ANSC*3040*0110 (6235) Animal Reproduction
+ANSC*3040*0111 (6236) Animal Reproduction
+ANSC*3040*0112 (6237) Animal Reproduction
+ANSC*3170*01 (6238) Nutrition of Fish & Crustacea
+ANSC*3180*01 (6239) Wildlife Nutrition
+ANSC*3270*01 (6240) Animal Disorders
+ANSC*4090*01 (6241) Applied Animal Behaviour
+ANSC*4100*01 (6242) Appl Env Physio/Animal Housing
+ANSC*4260*0101 (6243) Beef Cattle Nutrition
+ANSC*4350*01 (6244) Experiments in Animal Biology
+ANSC*4470*01 (6245) Animal Metabolism
+ANSC*4490*01 (6246) Applied Endocrinology
+ANSC*4610*01 (6247) Critical Analysis in ANSC
+ANSC*4650*01 (6248) Comparative Immunology
+ANSC*4700*01 (6249) Research in Animal Biology I
+ANSC*4710*01 (6250) Research in Animal Biology II
+ANTH*1150*01 (6269) Introduction to Anthropology
+ANTH*1150*DE01 (6270) Introduction to Anthropology
+ANTH*2160*01 (6271) Social Anthropology
+ANTH*2660*01 (6272) Contemporary Indigenous People
+ANTH*3550*01 (6273) Medical Anthropology
+ANTH*3770*01 (6274) Kinship, Family & Power
+ANTH*3840*01 (6275) Seminar in Anthropology
+ANTH*3950*01 (6276) Special Projects in Anthro
+ANTH*4440*01 (6277) Culture, Rights & Development
+ANTH*4700*01 (6278) Issues/ Contemp Anthrop Theory
+ANTH*4740*01 (6279) Seminar in Anthropology
+ANTH*4880*01 (6280) Special Proj. in Anthropology
+ANTH*4890*01 (6281) Special Proj. in Anthropology
+ANTH*4900*01 (6282) Honours Anthropology Thesis I
+ANTH*4910*01 (6283) Honours Anthropology Thesis II
+ARAB*1110*01 (6292) Introductory Arabic II
+ARTH*1520*01 (6293) Art Historical Studies II
+ARTH*2070*01 (6294) Art of the USA
+ARTH*2120*01 (6295) Introduction to Museology
+ARTH*2550*01 (6296) The Italian Renaissance
+ARTH*2600*01 (6297) Early Modern Art
+ARTH*3150*01 (6298) Space: Roman Art & Urbanism
+ARTH*3330*01 (6299) Visual Culture/ Western Europe
+ARTH*3780*01 (6300) Gender and Art
+ARTH*4310*01 (6301) Art & Visual Culture I
+ARTH*4330*01 (6302) Art & Visual Culture III
+ARTH*4600*01 (6303) Individual Study - Art History
+ARTH*4800*01 (6304) Experiential Learning
+ASCI*1120*0101 (6305) Society and Inquiry II
+ASCI*1120*0102 (6306) Society and Inquiry II
+ASCI*1120*0103 (6307) Society and Inquiry II
+ASCI*1120*0104 (6308) Society and Inquiry II
+ASCI*1120*0105 (6309) Society and Inquiry II
+ASCI*1120*0106 (6310) Society and Inquiry II
+ASCI*3100*01 (6311) Case Stds/Arts & Sci Research
+ASCI*3700*01 (6312) Independent Stds in Arts/Sci
+ASCI*4010*01 (6313) Honours Research Seminar
+ASCI*4020*01 (6314) Topics in Arts & Sci Research
+ASCI*4030*01 (6315) Topics in Arts & Sci Research
+ASCI*4700*01 (6316) Independent Stds in Arts/Sci
+ASCI*4700*02 (6317) Independent Stds in Arts/Sci
+ASCI*4700*03 (6318) Independent Stds in Arts/Sci
+ASCI*4710*01 (6319) Independent Stds in Arts/Sci
+ASCI*4710*02 (6320) Independent Stds in Arts/Sci
+BIOC*2580*0101 (6330) Introduction to Biochemistry
+BIOC*2580*0102 (6331) Introduction to Biochemistry
+BIOC*2580*0103 (6332) Introduction to Biochemistry
+BIOC*2580*0104 (6333) Introduction to Biochemistry
+BIOC*2580*0105 (6334) Introduction to Biochemistry
+BIOC*2580*0107 (6336) Introduction to Biochemistry
+BIOC*2580*0108 (6337) Introduction to Biochemistry
+BIOC*2580*0110 (6339) Introduction to Biochemistry
+BIOC*2580*0111 (6340) Introduction to Biochemistry
+BIOC*2580*0112 (6341) Introduction to Biochemistry
+BIOC*2580*0113 (6342) Introduction to Biochemistry
+BIOC*2580*0114 (6343) Introduction to Biochemistry
+BIOC*2580*0115 (6344) Introduction to Biochemistry
+BIOC*2580*0116 (6345) Introduction to Biochemistry
+BIOC*2580*0117 (6346) Introduction to Biochemistry
+BIOC*2580*0118 (6347) Introduction to Biochemistry
+BIOC*2580*0119 (6348) Introduction to Biochemistry
+BIOC*2580*0120 (6349) Introduction to Biochemistry
+BIOC*2580*0121 (6350) Introduction to Biochemistry
+BIOC*2580*0122 (6351) Introduction to Biochemistry
+BIOC*2580*0123 (6352) Introduction to Biochemistry
+BIOC*2580*0124 (6353) Introduction to Biochemistry
+BIOC*2580*01XX (9252) Introduction to Biochemistry
+BIOC*3560*01 (6355) Structure & Function in Bioche
+BIOC*4540*0101 (6356) Enzymology
+BIOC*4540*0102 (6357) Enzymology
+BIOC*4540*0103 (6358) Enzymology
+BIOC*4540*0104 (6359) Enzymology
+BIOC*4580*01 (6360) Membrane Biochemistry
+BIOL*1070*0101 (6361) Discovering Biodiversity
+BIOL*1070*0102 (6362) Discovering Biodiversity
+BIOL*1070*0103 (6363) Discovering Biodiversity
+BIOL*1070*0105 (6365) Discovering Biodiversity
+BIOL*1070*0106 (6366) Discovering Biodiversity
+BIOL*1070*0107 (6367) Discovering Biodiversity
+BIOL*1070*0108 (6368) Discovering Biodiversity
+BIOL*1070*0111 (6371) Discovering Biodiversity
+BIOL*1070*0112 (6372) Discovering Biodiversity
+BIOL*1070*0113 (6373) Discovering Biodiversity
+BIOL*1070*0114 (6374) Discovering Biodiversity
+BIOL*1070*0115 (6375) Discovering Biodiversity
+BIOL*1070*0116 (6376) Discovering Biodiversity
+BIOL*1070*0117 (6377) Discovering Biodiversity
+BIOL*1070*0118 (6378) Discovering Biodiversity
+BIOL*1070*0119 (6379) Discovering Biodiversity
+BIOL*1070*0120 (6380) Discovering Biodiversity
+BIOL*1070*0221 (6381) Discovering Biodiversity
+BIOL*1070*0222 (6382) Discovering Biodiversity
+BIOL*1070*0223 (6383) Discovering Biodiversity
+BIOL*1070*0224 (6384) Discovering Biodiversity
+BIOL*1070*0225 (6385) Discovering Biodiversity
+BIOL*1070*0226 (6386) Discovering Biodiversity
+BIOL*1070*0227 (6387) Discovering Biodiversity
+BIOL*1070*0228 (6388) Discovering Biodiversity
+BIOL*1070*0229 (6389) Discovering Biodiversity
+BIOL*1070*0230 (6390) Discovering Biodiversity
+BIOL*1070*0231 (6391) Discovering Biodiversity
+BIOL*1070*0232 (6392) Discovering Biodiversity
+BIOL*1070*0233 (6393) Discovering Biodiversity
+BIOL*1070*0235 (6395) Discovering Biodiversity
+BIOL*1070*0236 (6396) Discovering Biodiversity
+BIOL*1070*0237 (6397) Discovering Biodiversity
+BIOL*1080*0101 (6401) Biological Concepts of Health
+BIOL*1080*0102 (6402) Biological Concepts of Health
+BIOL*1080*0103 (6403) Biological Concepts of Health
+BIOL*1080*0104 (6404) Biological Concepts of Health
+BIOL*1080*0105 (6405) Biological Concepts of Health
+BIOL*1080*0106 (6406) Biological Concepts of Health
+BIOL*1080*0107 (6407) Biological Concepts of Health
+BIOL*1080*0108 (6408) Biological Concepts of Health
+BIOL*1080*0109 (6409) Biological Concepts of Health
+BIOL*1080*0110 (6410) Biological Concepts of Health
+BIOL*1080*0111 (6411) Biological Concepts of Health
+BIOL*1080*0112 (6412) Biological Concepts of Health
+BIOL*1080*0113 (6413) Biological Concepts of Health
+BIOL*1080*0114 (6414) Biological Concepts of Health
+BIOL*1080*0115 (6415) Biological Concepts of Health
+BIOL*1080*0116 (6416) Biological Concepts of Health
+BIOL*1080*0117 (6417) Biological Concepts of Health
+BIOL*1080*0118 (6418) Biological Concepts of Health
+BIOL*1080*0119 (6419) Biological Concepts of Health
+BIOL*1080*0120 (6420) Biological Concepts of Health
+BIOL*1080*0221 (6421) Biological Concepts of Health
+BIOL*1080*0222 (6422) Biological Concepts of Health
+BIOL*1080*0223 (6423) Biological Concepts of Health
+BIOL*1080*0225 (6425) Biological Concepts of Health
+BIOL*1080*0226 (6426) Biological Concepts of Health
+BIOL*1080*0227 (6427) Biological Concepts of Health
+BIOL*1080*0228 (6428) Biological Concepts of Health
+BIOL*1080*0231 (6431) Biological Concepts of Health
+BIOL*1080*0232 (6432) Biological Concepts of Health
+BIOL*1080*0233 (6433) Biological Concepts of Health
+BIOL*1080*0235 (6435) Biological Concepts of Health
+BIOL*1080*0236 (6436) Biological Concepts of Health
+BIOL*1080*0237 (6437) Biological Concepts of Health
+BIOL*1080*0238 (6438) Biological Concepts of Health
+BIOL*1090*0101 (6441) Intro to Molecular & Cell Biol
+BIOL*1090*0102 (6442) Intro to Molecular & Cell Biol
+BIOL*1090*0103 (6443) Intro to Molecular & Cell Biol
+BIOL*1090*0104 (6444) Intro to Molecular & Cell Biol
+BIOL*1090*0105 (6445) Intro to Molecular & Cell Biol
+BIOL*1090*0106 (6446) Intro to Molecular & Cell Biol
+BIOL*1090*0107 (6447) Intro to Molecular & Cell Biol
+BIOL*1090*0108 (6448) Intro to Molecular & Cell Biol
+BIOL*1090*0109 (6449) Intro to Molecular & Cell Biol
+BIOL*1090*0110 (6450) Intro to Molecular & Cell Biol
+BIOL*1090*0111 (6451) Intro to Molecular & Cell Biol
+BIOL*1090*0112 (6452) Intro to Molecular & Cell Biol
+BIOL*1090*0113 (6453) Intro to Molecular & Cell Biol
+BIOL*1090*0114 (6454) Intro to Molecular & Cell Biol
+BIOL*1090*0115 (6455) Intro to Molecular & Cell Biol
+BIOL*1090*0116 (6456) Intro to Molecular & Cell Biol
+BIOL*1090*0117 (6457) Intro to Molecular & Cell Biol
+BIOL*1090*0118 (6458) Intro to Molecular & Cell Biol
+BIOL*1090*0119 (6459) Intro to Molecular & Cell Biol
+BIOL*1090*0120 (6460) Intro to Molecular & Cell Biol
+BIOL*1090*0221 (6461) Intro to Molecular & Cell Biol
+BIOL*1090*0222 (6462) Intro to Molecular & Cell Biol
+BIOL*1090*0223 (6463) Intro to Molecular & Cell Biol
+BIOL*1090*0224 (6464) Intro to Molecular & Cell Biol
+BIOL*1090*0225 (6465) Intro to Molecular & Cell Biol
+BIOL*1090*0226 (6466) Intro to Molecular & Cell Biol
+BIOL*1090*0227 (6467) Intro to Molecular & Cell Biol
+BIOL*1090*0228 (6468) Intro to Molecular & Cell Biol
+BIOL*1090*0229 (6469) Intro to Molecular & Cell Biol
+BIOL*1090*0230 (6470) Intro to Molecular & Cell Biol
+BIOL*1090*0231 (6471) Intro to Molecular & Cell Biol
+BIOL*1090*0232 (6472) Intro to Molecular & Cell Biol
+BIOL*1090*0233 (6473) Intro to Molecular & Cell Biol
+BIOL*1090*0234 (6474) Intro to Molecular & Cell Biol
+BIOL*1090*0235 (6475) Intro to Molecular & Cell Biol
+BIOL*1090*0236 (6476) Intro to Molecular & Cell Biol
+BIOL*1090*0237 (6477) Intro to Molecular & Cell Biol
+BIOL*1090*0238 (6478) Intro to Molecular & Cell Biol
+BIOL*1090*0239 (6479) Intro to Molecular & Cell Biol
+BIOL*1090*0240 (6480) Intro to Molecular & Cell Biol
+BIOL*1500*DE01 (6481) Humans in the Natural World
+BIOL*2060*0101 (6482) Ecology
+BIOL*2060*0102 (6483) Ecology
+BIOL*2060*0103 (6484) Ecology
+BIOL*2060*0104 (6485) Ecology
+BIOL*2060*0105 (6486) Ecology
+BIOL*2060*0106 (6487) Ecology
+BIOL*2400*0101 (6489) Evolution
+BIOL*2400*0102 (6490) Evolution
+BIOL*2400*0103 (6491) Evolution
+BIOL*3040*0101 (6492) Methods in Evolutionary Biol
+BIOL*3040*0102 (6493) Methods in Evolutionary Biol
+BIOL*3060*0101 (6494) Populations,communities&ecosys
+BIOL*3060*0102 (6495) Populations,communities&ecosys
+BIOL*3060*0103 (6496) Populations,communities&ecosys
+BIOL*3060*0104 (6497) Populations,communities&ecosys
+BIOL*3060*0105 (6498) Populations,communities&ecosys
+BIOL*3060*0106 (6499) Populations,communities&ecosys
+BIOL*3060*0107 (6500) Populations,communities&ecosys
+BIOL*3130*0101 (6501) Conservation Biology
+BIOL*3130*0102 (6502) Conservation Biology
+BIOL*3130*0103 (6503) Conservation Biology
+BIOL*3130*0104 (6504) Conservation Biology
+BIOL*3130*0105 (6505) Conservation Biology
+BIOL*3130*0106 (6506) Conservation Biology
+BIOL*3130*0107 (6507) Conservation Biology
+BIOL*3650*01 (6509) Applications in Biology
+BIOL*3660*01 (6511) Internship in Bio Sci
+BIOL*3670*DE01 (6512) Intro to Wildlife Rehab
+BIOL*4010*01 (6513) Adaptational Physiology
+BIOL*4020*0101 (6514) Integrative Problems in BIOS
+BIOL*4120*0101 (6515) Evolutionary Ecology
+BIOL*4120*0102 (6516) Evolutionary Ecology
+BIOL*4120*0103 (6517) Evolutionary Ecology
+BIOL*4500*01 (6518) Natural Resource Policy Analys
+BIOL*4700*0101 (6519) Field Biology
+BIOL*4800*0101 (6520) Field Biology
+BIOL*4900*01 (9159) Field Biology
+BIOM*2000*DE01 (6521) Concepts in Human Physiology
+BIOM*3040*0101 (6522) Medical Embryology
+BIOM*3040*0102 (6523) Medical Embryology
+BIOM*3090*01 (6524) Principles of Pharmacology
+BIOM*3200*01 (6525) Biomedical Physiology
+BIOM*4030*01 (6526) Endocrine Physiology
+BIOM*4050*01 (6527) Biomedical Aspects of Aging
+BIOM*4090*DE01 (6528) Pharmacology
+BIOM*4110*0101 (6529) Mammalian Reproductive Biology
+BIOM*4150*0101 (6530) Cancer Biology
+BIOM*4180*01 (6531) Cardiology
+BIOM*4180*02 (6532) Cardiology
+BIOM*4500*01 (6533) Lit-Based Rsch in Biom. Sci.
+BIOM*4510*01 (6534) Research in Biomedical Sci.
+BIOM*4521*01 (6535) Research in Biomedical Sci.
+BIOM*4522*01 (6536) Research in Biomedical Sci.
+BOT*1200*01 (6552) Plants and Human Use
+BOT*2000*DE01 (6553) Plants, Biology and People
+BOT*2100*0101 (6554) Life Strategies of Plants
+BOT*2100*0102 (6555) Life Strategies of Plants
+BOT*3310*0101 (6556) Plant Growth and Development
+BOT*3310*0102 (6557) Plant Growth and Development
+BOT*3710*0101 (6558) Plant Diversity & Evolution
+BOT*4380*01 (6559) Metabolism in Plants
+BUS*4550*01 (6560) Applied Business Project I
+BUS*4560*01 (6561) Applied Business Project II
+CHEM*1040*0101 (6578) General Chemistry I
+CHEM*1040*0102 (6579) General Chemistry I
+CHEM*1040*0105 (6582) General Chemistry I
+CHEM*1040*0106 (6583) General Chemistry I
+CHEM*1040*0107 (6584) General Chemistry I
+CHEM*1040*0108 (6585) General Chemistry I
+CHEM*1040*0109 (6586) General Chemistry I
+CHEM*1040*0110 (6587) General Chemistry I
+CHEM*1040*0111 (6588) General Chemistry I
+CHEM*1040*0112 (6589) General Chemistry I
+CHEM*1040*0113 (6590) General Chemistry I
+CHEM*1040*0114 (6591) General Chemistry I
+CHEM*1040*0115 (6592) General Chemistry I
+CHEM*1040*0116 (6593) General Chemistry I
+CHEM*1040*01XX (6596) General Chemistry I
+CHEM*1050*0101 (6597) General Chemistry II
+CHEM*1050*0102 (6598) General Chemistry II
+CHEM*1050*0103 (6599) General Chemistry II
+CHEM*1050*0104 (6600) General Chemistry II
+CHEM*1050*0105 (6601) General Chemistry II
+CHEM*1050*0106 (6602) General Chemistry II
+CHEM*1050*0107 (6603) General Chemistry II
+CHEM*1050*0108 (6604) General Chemistry II
+CHEM*1050*0109 (6605) General Chemistry II
+CHEM*1050*0110 (6606) General Chemistry II
+CHEM*1050*0111 (6607) General Chemistry II
+CHEM*1050*0112 (6608) General Chemistry II
+CHEM*1050*0113 (6609) General Chemistry II
+CHEM*1050*0114 (6610) General Chemistry II
+CHEM*1050*0115 (6611) General Chemistry II
+CHEM*1050*0116 (6612) General Chemistry II
+CHEM*1050*0117 (6613) General Chemistry II
+CHEM*1050*0118 (6614) General Chemistry II
+CHEM*1050*0119 (6615) General Chemistry II
+CHEM*1050*0120 (6616) General Chemistry II
+CHEM*1050*0121 (6617) General Chemistry II
+CHEM*1050*0122 (6618) General Chemistry II
+CHEM*1050*0123 (6619) General Chemistry II
+CHEM*1050*0124 (6620) General Chemistry II
+CHEM*1050*01XX (6621) General Chemistry II
+CHEM*1050*0225 (6622) General Chemistry II
+CHEM*1050*0226 (6623) General Chemistry II
+CHEM*1050*0227 (6624) General Chemistry II
+CHEM*1050*0228 (6625) General Chemistry II
+CHEM*1050*0229 (6626) General Chemistry II
+CHEM*1050*0230 (6627) General Chemistry II
+CHEM*1050*0231 (6628) General Chemistry II
+CHEM*1050*0232 (6629) General Chemistry II
+CHEM*1050*0233 (6630) General Chemistry II
+CHEM*1050*0234 (6631) General Chemistry II
+CHEM*1050*0235 (6632) General Chemistry II
+CHEM*1050*0236 (6633) General Chemistry II
+CHEM*1050*0237 (6634) General Chemistry II
+CHEM*1050*0238 (6635) General Chemistry II
+CHEM*1050*0239 (6636) General Chemistry II
+CHEM*1050*0240 (6637) General Chemistry II
+CHEM*1050*0241 (6638) General Chemistry II
+CHEM*1050*0242 (6639) General Chemistry II
+CHEM*1050*0243 (6640) General Chemistry II
+CHEM*1050*0244 (6641) General Chemistry II
+CHEM*1050*0245 (6642) General Chemistry II
+CHEM*1050*0246 (6643) General Chemistry II
+CHEM*1050*0247 (6644) General Chemistry II
+CHEM*1050*0248 (6645) General Chemistry II
+CHEM*1050*02XX (6646) General Chemistry II
+CHEM*1050*0349 (6647) General Chemistry II
+CHEM*1050*0350 (6648) General Chemistry II
+CHEM*1050*0351 (6649) General Chemistry II
+CHEM*1050*0352 (6650) General Chemistry II
+CHEM*1050*0353 (6651) General Chemistry II
+CHEM*1050*0354 (6652) General Chemistry II
+CHEM*1050*0355 (6653) General Chemistry II
+CHEM*1050*0356 (6654) General Chemistry II
+CHEM*1050*0357 (6655) General Chemistry II
+CHEM*1050*0358 (6656) General Chemistry II
+CHEM*1050*0359 (6657) General Chemistry II
+CHEM*1050*0360 (6658) General Chemistry II
+CHEM*1050*0361 (6659) General Chemistry II
+CHEM*1050*0362 (6660) General Chemistry II
+CHEM*1050*0363 (6661) General Chemistry II
+CHEM*1050*0364 (6662) General Chemistry II
+CHEM*1050*0365 (6663) General Chemistry II
+CHEM*1050*0366 (6664) General Chemistry II
+CHEM*1050*0367 (6665) General Chemistry II
+CHEM*1050*0368 (6666) General Chemistry II
+CHEM*1050*0369 (6667) General Chemistry II
+CHEM*1050*0370 (6668) General Chemistry II
+CHEM*1050*0371 (6669) General Chemistry II
+CHEM*1050*0372 (6670) General Chemistry II
+CHEM*1050*0373 (6671) General Chemistry II
+CHEM*1050*0374 (6672) General Chemistry II
+CHEM*1050*03XX (6673) General Chemistry II
+CHEM*1100*DE01 (6674) Chemistry Today
+CHEM*2070*0101 (6675) Structure and Spectroscopy
+CHEM*2400*0101 (6676) Analytical Chemistry I
+CHEM*2400*0102 (6677) Analytical Chemistry I
+CHEM*2400*0103 (9188) Analytical Chemistry I
+CHEM*2400*01XX (6678) Analytical Chemistry I
+CHEM*2480*0101 (6679) Analytical Chemistry I
+CHEM*2480*0102 (6680) Analytical Chemistry I
+CHEM*2480*0103 (6681) Analytical Chemistry I
+CHEM*2480*0104 (6682) Analytical Chemistry I
+CHEM*2480*0105 (6683) Analytical Chemistry I
+CHEM*2480*0106 (6684) Analytical Chemistry I
+CHEM*2480*0107 (6685) Analytical Chemistry I
+CHEM*2480*01XX (6687) Analytical Chemistry I
+CHEM*2700*0101 (6688) Organic Chemistry I
+CHEM*2700*0102 (6689) Organic Chemistry I
+CHEM*2700*0103 (6690) Organic Chemistry I
+CHEM*2700*0104 (6691) Organic Chemistry I
+CHEM*2700*0105 (6692) Organic Chemistry I
+CHEM*2700*0106 (6693) Organic Chemistry I
+CHEM*2700*0107 (6694) Organic Chemistry I
+CHEM*2700*0108 (6695) Organic Chemistry I
+CHEM*2700*0109 (6696) Organic Chemistry I
+CHEM*2700*0110 (6697) Organic Chemistry I
+CHEM*2700*0111 (6698) Organic Chemistry I
+CHEM*2700*0112 (6699) Organic Chemistry I
+CHEM*2700*0113 (6700) Organic Chemistry I
+CHEM*2700*0114 (6701) Organic Chemistry I
+CHEM*2700*0115 (6702) Organic Chemistry I
+CHEM*2700*0116 (6703) Organic Chemistry I
+CHEM*2700*0117 (9189) Organic Chemistry I
+CHEM*2700*0118 (9190) Organic Chemistry I
+CHEM*2700*01XX (6704) Organic Chemistry I
+CHEM*3360*01 (6705) Environmental Chem. & Tox.
+CHEM*3430*0101 (6706) Analytical Chemistry II
+CHEM*3430*0102 (6707) Analytical Chemistry II
+CHEM*3430*0103 (6708) Analytical Chemistry II
+CHEM*3430*0104 (9165) Analytical Chemistry II
+CHEM*3430*01XX (6709) Analytical Chemistry II
+CHEM*3650*0101 (6710) Chemistry of the Elements II
+CHEM*3650*0102 (6711) Chemistry of the Elements II
+CHEM*3650*0103 (6712) Chemistry of the Elements II
+CHEM*3650*0104 (6713) Chemistry of the Elements II
+CHEM*3760*0101 (6715) Organic Chemistry III
+CHEM*3760*0102 (6716) Organic Chemistry III
+CHEM*3760*0103 (6717) Organic Chemistry III
+CHEM*3760*0104 (6718) Organic Chemistry III
+CHEM*4010*01 (6720) Chemistry and Industry
+CHEM*4400*01 (6721) Advanced Topics in Analyt Chem
+CHEM*4720*01 (6722) Organic Reactivity
+CHEM*4880*01 (6723) Topics in Adv. Physical Chem.
+CHEM*4900*01 (6724) Chemistry Research Project I
+CHEM*4910*01 (6725) Chemistry Research Project II
+CHIN*1210*01 (6742) Introductory Chinese II
+CHIN*1290*01 (6743) Conversational Chinese II
+CIS*1000*DE01 (6745) Intro to Computer Applications
+CIS*1050*DE01 (6746) Web Design & Development
+CIS*1200*DE01 (6747) Introduction to Computing
+CIS*1500*0101 (6748) Introduction to Programming
+CIS*1500*0102 (6749) Introduction to Programming
+CIS*1500*0103 (6750) Introduction to Programming
+CIS*1500*0104 (6751) Introduction to Programming
+CIS*1500*0105 (6752) Introduction to Programming
+CIS*1500*0106 (6753) Introduction to Programming
+CIS*1500*0107 (6754) Introduction to Programming
+CIS*1500*0108 (6755) Introduction to Programming
+CIS*1500*0109 (6756) Introduction to Programming
+CIS*1500*0110 (6757) Introduction to Programming
+CIS*1500*0111 (6758) Introduction to Programming
+CIS*2170*0101 (6760) User Interface Design
+CIS*2170*0102 (6761) User Interface Design
+CIS*2170*0103 (6762) User Interface Design
+CIS*2250*0101 (6763) Software Design II
+CIS*2250*0102 (6764) Software Design II
+CIS*2250*0203 (6765) Software Design II
+CIS*2250*0204 (6766) Software Design II
+CIS*2500*0101 (6767) Intermediate Programming
+CIS*2500*0102 (6768) Intermediate Programming
+CIS*2500*0103 (6769) Intermediate Programming
+CIS*2500*0104 (6770) Intermediate Programming
+CIS*2500*0105 (6771) Intermediate Programming
+CIS*2500*0207 (6773) Intermediate Programming
+CIS*2500*0208 (6774) Intermediate Programming
+CIS*2500*0209 (6775) Intermediate Programming
+CIS*2500*0210 (6776) Intermediate Programming
+CIS*2500*0211 (6777) Intermediate Programming
+CIS*2750*0101 (6778) Software System Dvlmt & Intgrn
+CIS*2750*0102 (6779) Software System Dvlmt & Intgrn
+CIS*2750*0103 (6780) Software System Dvlmt & Intgrn
+CIS*2750*0104 (6781) Software System Dvlmt & Intgrn
+CIS*2750*0105 (6782) Software System Dvlmt & Intgrn
+CIS*2750*0106 (6783) Software System Dvlmt & Intgrn
+CIS*2750*0201 (6784) Software System Dvlmt & Intgrn
+CIS*2750*0202 (6785) Software System Dvlmt & Intgrn
+CIS*2750*0203 (6786) Software System Dvlmt & Intgrn
+CIS*2750*0204 (6787) Software System Dvlmt & Intgrn
+CIS*2750*0205 (6788) Software System Dvlmt & Intgrn
+CIS*2750*0206 (6789) Software System Dvlmt & Intgrn
+CIS*2910*0101 (6790) Discrete Structures in Comp II
+CIS*2910*0102 (6791) Discrete Structures in Comp II
+CIS*2910*0103 (6792) Discrete Structures in Comp II
+CIS*2910*0104 (6793) Discrete Structures in Comp II
+CIS*2910*0105 (6794) Discrete Structures in Comp II
+CIS*2910*0106 (6795) Discrete Structures in Comp II
+CIS*3110*0101 (6796) Operating Systems
+CIS*3110*0102 (6797) Operating Systems
+CIS*3110*0103 (6798) Operating Systems
+CIS*3110*0204 (6799) Operating Systems
+CIS*3110*0205 (6800) Operating Systems
+CIS*3110*0206 (6801) Operating Systems
+CIS*3120*0101 (6802) Digital Systems I
+CIS*3120*0102 (6803) Digital Systems I
+CIS*3190*DE01 (6804) Software for Legacy Systems
+CIS*3490*0101 (6805) Analysis & Des. of Comp. Algo.
+CIS*3490*0102 (6806) Analysis & Des. of Comp. Algo.
+CIS*3490*0103 (6807) Analysis & Des. of Comp. Algo.
+CIS*3490*0104 (6808) Analysis & Des. of Comp. Algo.
+CIS*3490*0105 (6809) Analysis & Des. of Comp. Algo.
+CIS*3700*0101 (6810) Intro to Intelligent Systems
+CIS*3750*0101 (6811) Syst Analysis & Design in App
+CIS*3750*0102 (6812) Syst Analysis & Design in App
+CIS*3750*0103 (6813) Syst Analysis & Design in App
+CIS*3760*0101 (6814) Software Engineering
+CIS*3760*0102 (6815) Software Engineering
+CIS*4010*01 (6816) Cloud Computing
+CIS*4030*01 (6817) Mobile Computing
+CIS*4250*01 (6818) Software Design V
+CIS*4450*01 (6820) Special Topics in Info. Sci.
+CIS*4500*01 (6821) Special Topics in Comp. Sci.
+CIS*4520*0101 (6822) Introduction to Cryptography
+CIS*4520*0102 (6823) Introduction to Cryptography
+CIS*4650*0101 (6824) Compilers
+CIS*4800*0101 (6825) Computer Graphics
+CIS*4820*01 (9146) Game Programming
+CIS*4900*01 (6826) Computer Science Project
+CIS*4910*01 (6827) Computer Science Thesis
+CLAS*1000*01 (6834) Intro. to Classical Culture
+CLAS*2000*01 (6835) Classical Mythology
+CLAS*3010*01 (6836) The Roman Revolution
+CLAS*3040*01 (6837) Greek Tragedy and Comedy
+CLAS*3060*01 (6838) Roman Revolution (in Latin)
+CLAS*3090*01 (6839) Greek Trag & Comedy (in Greek)
+CLAS*3150*01 (6840) Space: Roman Art & Urbanism
+CLAS*3300*01 (6841) Direct Reading in Greek/Latin
+CLAS*3300*02 (6842) Direct Reading in Greek/Latin
+CLAS*3300*03 (6843) Direct Reading in Greek/Latin
+CLAS*3300*04 (6844) Direct Reading in Greek/Latin
+CLAS*3700*01 (6845) Experiential Learning & Lang
+CLAS*3700*02 (6846) Experiential Learning & Lang
+CLAS*3700*03 (6847) Experiential Learning & Lang
+CLAS*3700*04 (6848) Experiential Learning & Lang
+CLAS*4150*01 (6849) Research Paper in Classics
+CLAS*4150*02 (6850) Research Paper in Classics
+CLAS*4150*03 (6851) Research Paper in Classics
+CLAS*4150*04 (6852) Research Paper in Classics
+CLAS*4150*05 (6853) Research Paper in Classics
+CLAS*4150*06 (6854) Research Paper in Classics
+CLAS*4400*01 (6855) Seminar in Classics
+COOP*1000*01 (6866) Work Term I
+COOP*1100*01 (6867) Introduction to Coop Education
+COOP*1100*02 (6868) Introduction to Coop Education
+COOP*1100*03 (6869) Introduction to Coop Education
+COOP*1100*04 (6870) Introduction to Coop Education
+COOP*1100*05 (6871) Introduction to Coop Education
+COOP*1100*06 (6872) Introduction to Coop Education
+COOP*2000*01 (6873) Work Term II
+COOP*3000*01 (6874) Work Term III
+COOP*4000*01 (6875) Work Term IV
+COOP*5000*01 (6876) Work Term V
+CROP*3300*01 (6877) Grain Crops
+CROP*3340*0101 (6878) Managed Grasslands
+CROP*4220*0101 (6879) Cropping Systems
+ECON*1050*DE01 (6896) Introductory Microeconomics
+ECON*1100*01 (6897) Introductory Macroeconomics
+ECON*1100*02 (6898) Introductory Macroeconomics
+ECON*1100*03 (6899) Introductory Macroeconomics
+ECON*1100*DE01 (6900) Introductory Macroeconomics
+ECON*2310*01 (6901) Intermediate Microeconomics
+ECON*2410*01 (6902) Intermediate Macroeconomics
+ECON*2410*02 (6903) Intermediate Macroeconomics
+ECON*2560*01 (6904) Introduction to Finance
+ECON*2560*02 (6905) Introduction to Finance
+ECON*2560*03 (6906) Introduction to Finance
+ECON*2740*0101 (6907) Economic Statistics
+ECON*2740*0102 (6908) Economic Statistics
+ECON*2770*01 (6909) Intro Mathematical Economics
+ECON*3100*01 (6910) Game Theory
+ECON*3580*01 (6911) Economics of Regulation
+ECON*3610*01 (6912) Public Economics
+ECON*3660*01 (6913) Investments
+ECON*3710*0101 (6914) Advanced Microeconomics
+ECON*3740*0101 (6915) Introduction to Econometrics
+ECON*3740*0102 (6916) Introduction to Econometrics
+ECON*3740*0103 (6917) Introduction to Econometrics
+ECON*3740*0204 (6918) Introduction to Econometrics
+ECON*3740*0205 (6919) Introduction to Econometrics
+ECON*3740*0206 (6920) Introduction to Econometrics
+ECON*3760*01 (6921) Fundamentals of Derivatives
+ECON*3810*01 (6922) Advanced Macroeconomics
+ECON*3810*02 (6923) Advanced Macroeconomics
+ECON*3860*01 (6924) International Finance
+ECON*3860*02 (6925) International Finance
+ECON*3900*01 (6926) Intermediate Study in Econ
+ECON*3960*01 (6927) Money, Credit and Finance
+ECON*4400*01 (6928) Managerial Economics
+ECON*4400*02 (6929) Managerial Economics
+ECON*4560*01 (6930) Advanced Topics in Finance
+ECON*4720*01 (6931) Topics in Economic History
+ECON*4780*01 (6932) Topics in Industrial Org
+ECON*4800*01 (6933) Theory of Strategic Management
+ECON*4810*01 (6934) Advanced Topics in Macroec
+ECON*4840*01 (6935) Financial Econometrics
+ECON*4900*01 (6936) Special Study in Economics
+ECON*4910*01 (6937) Special Study in Economics
+EDRD*1400*01 (6947) Introduction to Design
+EDRD*2650*DE01 (6948) Intro to Planning & Envmtl Law
+EDRD*3140*DE01 (6949) Organizational Communication
+EDRD*3160*DE01 (6950) International Communication
+EDRD*3400*0101 (6951) Sustainable Communities
+EDRD*3500*DE01 (6952) Recreation & Tourism Planning
+EDRD*4010*DE01 (6953) Tourism Plan/Less Devp'd World
+ENGG*1210*0101 (6955) Engineering Mechanics I
+ENGG*1210*0102 (6956) Engineering Mechanics I
+ENGG*1210*0103 (6957) Engineering Mechanics I
+ENGG*1210*0104 (6958) Engineering Mechanics I
+ENGG*1210*0105 (6959) Engineering Mechanics I
+ENGG*1210*0106 (6960) Engineering Mechanics I
+ENGG*1210*0107 (6961) Engineering Mechanics I
+ENGG*1210*0108 (6962) Engineering Mechanics I
+ENGG*1210*0109 (6963) Engineering Mechanics I
+ENGG*1210*0110 (6964) Engineering Mechanics I
+ENGG*1210*0201 (6969) Engineering Mechanics I
+ENGG*1210*0202 (6970) Engineering Mechanics I
+ENGG*1210*0203 (6971) Engineering Mechanics I
+ENGG*1210*0204 (6972) Engineering Mechanics I
+ENGG*1210*0205 (6973) Engineering Mechanics I
+ENGG*1210*0206 (6974) Engineering Mechanics I
+ENGG*1210*0207 (6975) Engineering Mechanics I
+ENGG*1210*0208 (6976) Engineering Mechanics I
+ENGG*1210*0209 (6977) Engineering Mechanics I
+ENGG*1210*0210 (6978) Engineering Mechanics I
+ENGG*1500*0101 (6983) Engineering Analysis
+ENGG*1500*0102 (6984) Engineering Analysis
+ENGG*1500*0104 (6986) Engineering Analysis
+ENGG*1500*0106 (6988) Engineering Analysis
+ENGG*1500*0201 (6989) Engineering Analysis
+ENGG*1500*0202 (6990) Engineering Analysis
+ENGG*1500*0204 (6992) Engineering Analysis
+ENGG*1500*0206 (6994) Engineering Analysis
+ENGG*2100*01011 (6995) Engineering and Design II
+ENGG*2100*01012 (6996) Engineering and Design II
+ENGG*2100*01013 (6997) Engineering and Design II
+ENGG*2100*01014 (6998) Engineering and Design II
+ENGG*2100*01015 (6999) Engineering and Design II
+ENGG*2100*01021 (7000) Engineering and Design II
+ENGG*2100*01022 (7001) Engineering and Design II
+ENGG*2100*01023 (7002) Engineering and Design II
+ENGG*2100*01024 (7003) Engineering and Design II
+ENGG*2100*01025 (7004) Engineering and Design II
+ENGG*2100*01031 (7005) Engineering and Design II
+ENGG*2100*01032 (7006) Engineering and Design II
+ENGG*2100*01033 (7007) Engineering and Design II
+ENGG*2100*01034 (7008) Engineering and Design II
+ENGG*2100*01035 (7009) Engineering and Design II
+ENGG*2100*01041 (7010) Engineering and Design II
+ENGG*2100*01042 (7011) Engineering and Design II
+ENGG*2100*01043 (7012) Engineering and Design II
+ENGG*2100*01044 (7013) Engineering and Design II
+ENGG*2100*01045 (7014) Engineering and Design II
+ENGG*2100*01051 (7015) Engineering and Design II
+ENGG*2100*01052 (7016) Engineering and Design II
+ENGG*2100*01053 (7017) Engineering and Design II
+ENGG*2100*01054 (7018) Engineering and Design II
+ENGG*2100*01055 (7019) Engineering and Design II
+ENGG*2120*0101 (7020) Material Science
+ENGG*2120*0102 (7021) Material Science
+ENGG*2120*0103 (7022) Material Science
+ENGG*2120*0104 (7023) Material Science
+ENGG*2120*0105 (7024) Material Science
+ENGG*2120*0106 (7025) Material Science
+ENGG*2120*0107 (7026) Material Science
+ENGG*2120*0108 (7027) Material Science
+ENGG*2180*0101 (7028) Intro Manufacturing Processes
+ENGG*2180*0102 (7029) Intro Manufacturing Processes
+ENGG*2180*0103 (7030) Intro Manufacturing Processes
+ENGG*2180*0104 (7031) Intro Manufacturing Processes
+ENGG*2180*0105 (7032) Intro Manufacturing Processes
+ENGG*2180*0106 (7033) Intro Manufacturing Processes
+ENGG*2180*0107 (7034) Intro Manufacturing Processes
+ENGG*2180*0108 (7035) Intro Manufacturing Processes
+ENGG*2180*0109 (7036) Intro Manufacturing Processes
+ENGG*2230*0101 (7037) Fluid Mechanics
+ENGG*2230*0102 (7038) Fluid Mechanics
+ENGG*2230*0103 (7039) Fluid Mechanics
+ENGG*2230*0104 (7040) Fluid Mechanics
+ENGG*2230*0105 (7041) Fluid Mechanics
+ENGG*2230*0106 (7042) Fluid Mechanics
+ENGG*2230*0201 (7043) Fluid Mechanics
+ENGG*2230*0202 (7044) Fluid Mechanics
+ENGG*2230*0203 (7045) Fluid Mechanics
+ENGG*2230*0204 (7046) Fluid Mechanics
+ENGG*2230*0205 (7047) Fluid Mechanics
+ENGG*2230*0206 (7048) Fluid Mechanics
+ENGG*2340*0101 (7049) Kinematics & Dynamics
+ENGG*2340*0102 (7050) Kinematics & Dynamics
+ENGG*2340*0103 (7051) Kinematics & Dynamics
+ENGG*2340*0104 (7052) Kinematics & Dynamics
+ENGG*2400*0101 (7053) Engineering Systems Analysis
+ENGG*2400*0102 (7054) Engineering Systems Analysis
+ENGG*2450*0101 (7056) Electric Circuits
+ENGG*2450*0102 (7057) Electric Circuits
+ENGG*2450*0103 (7058) Electric Circuits
+ENGG*2450*0104 (7059) Electric Circuits
+ENGG*2450*0105 (7060) Electric Circuits
+ENGG*2450*0106 (7061) Electric Circuits
+ENGG*2450*0201 (7062) Electric Circuits
+ENGG*2450*0202 (7063) Electric Circuits
+ENGG*2450*0203 (7064) Electric Circuits
+ENGG*2450*0204 (7065) Electric Circuits
+ENGG*2450*0205 (7066) Electric Circuits
+ENGG*2450*0206 (7067) Electric Circuits
+ENGG*2550*01 (7068) Water Management
+ENGG*2560*0101 (7069) Environmental Eng Systems
+ENGG*2560*0102 (7070) Environmental Eng Systems
+ENGG*2560*0103 (7071) Environmental Eng Systems
+ENGG*2560*0104 (7072) Environmental Eng Systems
+ENGG*2660*0101 (7073) Biological Eng Systems I
+ENGG*2660*0102 (7074) Biological Eng Systems I
+ENGG*3100*0101 (7075) Engineering & Design III
+ENGG*3100*0102 (7076) Engineering & Design III
+ENGG*3100*0103 (7077) Engineering & Design III
+ENGG*3100*0104 (7078) Engineering & Design III
+ENGG*3100*0105 (7079) Engineering & Design III
+ENGG*3120*0101 (7080) Computer Aided Design & Manuf
+ENGG*3120*0102 (7081) Computer Aided Design & Manuf
+ENGG*3130*0101 (7082) Modelling Complex Systems
+ENGG*3130*0102 (9174) Modelling Complex Systems
+ENGG*3170*0101 (7083) Biomaterials
+ENGG*3170*0102 (7084) Biomaterials
+ENGG*3170*0103 (7085) Biomaterials
+ENGG*3170*0104 (7086) Biomaterials
+ENGG*3170*0105 (7087) Biomaterials
+ENGG*3170*0106 (7088) Biomaterials
+ENGG*3170*0107 (7089) Biomaterials
+ENGG*3170*0108 (7090) Biomaterials
+ENGG*3170*0109 (7091) Biomaterials
+ENGG*3170*0110 (7092) Biomaterials
+ENGG*3210*0101 (7093) Communication Systems
+ENGG*3220*0101 (7094) Groundwater Engineering
+ENGG*3220*0102 (7095) Groundwater Engineering
+ENGG*3220*0103 (7096) Groundwater Engineering
+ENGG*3220*0104 (7097) Groundwater Engineering
+ENGG*3250*0101 (7098) Energy Mngt. & Utilization
+ENGG*3250*0102 (7099) Energy Mngt. & Utilization
+ENGG*3250*0103 (7100) Energy Mngt. & Utilization
+ENGG*3370*0101 (7101) Applied Fluids & Thermodynamic
+ENGG*3370*0102 (7102) Applied Fluids & Thermodynamic
+ENGG*3370*0103 (7103) Applied Fluids & Thermodynamic
+ENGG*3370*0104 (7104) Applied Fluids & Thermodynamic
+ENGG*3370*0105 (7105) Applied Fluids & Thermodynamic
+ENGG*3370*0106 (7106) Applied Fluids & Thermodynamic
+ENGG*3380*0101 (7107) Computer Organization & Design
+ENGG*3410*01011 (7108) Systems and Control Theory
+ENGG*3410*01012 (7109) Systems and Control Theory
+ENGG*3410*01013 (7110) Systems and Control Theory
+ENGG*3410*01014 (7111) Systems and Control Theory
+ENGG*3410*01015 (7112) Systems and Control Theory
+ENGG*3410*01021 (7113) Systems and Control Theory
+ENGG*3410*01022 (7114) Systems and Control Theory
+ENGG*3410*01023 (7115) Systems and Control Theory
+ENGG*3410*01024 (7116) Systems and Control Theory
+ENGG*3410*01025 (7117) Systems and Control Theory
+ENGG*3410*01031 (7118) Systems and Control Theory
+ENGG*3410*01032 (7119) Systems and Control Theory
+ENGG*3410*01033 (7120) Systems and Control Theory
+ENGG*3410*01034 (7121) Systems and Control Theory
+ENGG*3410*01035 (7122) Systems and Control Theory
+ENGG*3410*01041 (7123) Systems and Control Theory
+ENGG*3410*01042 (7124) Systems and Control Theory
+ENGG*3410*01043 (7125) Systems and Control Theory
+ENGG*3410*01044 (7126) Systems and Control Theory
+ENGG*3410*01045 (7127) Systems and Control Theory
+ENGG*3410*01051 (7128) Systems and Control Theory
+ENGG*3410*01052 (7129) Systems and Control Theory
+ENGG*3410*01053 (7130) Systems and Control Theory
+ENGG*3410*01054 (7131) Systems and Control Theory
+ENGG*3410*01055 (7132) Systems and Control Theory
+ENGG*3410*02011 (7133) Systems and Control Theory
+ENGG*3410*02012 (7134) Systems and Control Theory
+ENGG*3410*02013 (7135) Systems and Control Theory
+ENGG*3410*02014 (7136) Systems and Control Theory
+ENGG*3410*02015 (7137) Systems and Control Theory
+ENGG*3410*02021 (7138) Systems and Control Theory
+ENGG*3410*02022 (7139) Systems and Control Theory
+ENGG*3410*02023 (7140) Systems and Control Theory
+ENGG*3410*02024 (7141) Systems and Control Theory
+ENGG*3410*02025 (7142) Systems and Control Theory
+ENGG*3410*02031 (7143) Systems and Control Theory
+ENGG*3410*02032 (7144) Systems and Control Theory
+ENGG*3410*02033 (7145) Systems and Control Theory
+ENGG*3410*02034 (7146) Systems and Control Theory
+ENGG*3410*02035 (7147) Systems and Control Theory
+ENGG*3410*02041 (7148) Systems and Control Theory
+ENGG*3410*02042 (7149) Systems and Control Theory
+ENGG*3410*02043 (7150) Systems and Control Theory
+ENGG*3410*02044 (7151) Systems and Control Theory
+ENGG*3410*02045 (7152) Systems and Control Theory
+ENGG*3410*02051 (7153) Systems and Control Theory
+ENGG*3410*02052 (7154) Systems and Control Theory
+ENGG*3410*02053 (7155) Systems and Control Theory
+ENGG*3410*02054 (7156) Systems and Control Theory
+ENGG*3410*02055 (7157) Systems and Control Theory
+ENGG*3430*0101 (7158) Heat and Mass Transfer
+ENGG*3430*0102 (7159) Heat and Mass Transfer
+ENGG*3430*0103 (7160) Heat and Mass Transfer
+ENGG*3430*0104 (7161) Heat and Mass Transfer
+ENGG*3430*0105 (7162) Heat and Mass Transfer
+ENGG*3430*0106 (7163) Heat and Mass Transfer
+ENGG*3430*0107 (7164) Heat and Mass Transfer
+ENGG*3430*0108 (7165) Heat and Mass Transfer
+ENGG*3430*0110 (7167) Heat and Mass Transfer
+ENGG*3430*0201 (7168) Heat and Mass Transfer
+ENGG*3430*0202 (7169) Heat and Mass Transfer
+ENGG*3430*0203 (7170) Heat and Mass Transfer
+ENGG*3430*0204 (7171) Heat and Mass Transfer
+ENGG*3430*0205 (7172) Heat and Mass Transfer
+ENGG*3430*0206 (7173) Heat and Mass Transfer
+ENGG*3430*0207 (7174) Heat and Mass Transfer
+ENGG*3430*0208 (7175) Heat and Mass Transfer
+ENGG*3430*0210 (7177) Heat and Mass Transfer
+ENGG*3470*01011 (7178) Mass Transfer Operations
+ENGG*3470*01012 (7179) Mass Transfer Operations
+ENGG*3470*01021 (7180) Mass Transfer Operations
+ENGG*3470*01022 (7181) Mass Transfer Operations
+ENGG*3470*01031 (7182) Mass Transfer Operations
+ENGG*3470*01032 (7183) Mass Transfer Operations
+ENGG*3490*0101 (7184) Mechatronic Systems Design
+ENGG*3490*0102 (7185) Mechatronic Systems Design
+ENGG*3490*0103 (7186) Mechatronic Systems Design
+ENGG*4030*0101 (7187) Manufacturing System Design
+ENGG*4050*0101 (7188) Quality Control
+ENGG*4050*0102 (7189) Quality Control
+ENGG*4050*0103 (7190) Quality Control
+ENGG*4060*0101 (7191) Biomedical Signals
+ENGG*4060*0102 (7192) Biomedical Signals
+ENGG*4070*0101 (7193) LCA for Engineering
+ENGG*4110*0101 (7194) Biological Eng Design IV
+ENGG*4120*0101 (7195) Systems & Comp Eng Design IV
+ENGG*4130*0101 (7196) Environmental Eng Design IV
+ENGG*4150*0101 (7197) Water Resourses Design IV
+ENGG*4160*0101 (7198) Mechanical Eng Design IV
+ENGG*4170*0101 (7199) Computer Engineering Design IV
+ENGG*4180*0101 (7200) Biomedical Eng. Design IV
+ENGG*4220*0101 (7201) Interdisciplin Mech Eng Design
+ENGG*4250*0101 (7202) Watershed Systems Design
+ENGG*4280*0101 (7203) Digital Process Control Design
+ENGG*4280*0102 (7204) Digital Process Control Design
+ENGG*4300*0101 (7205) Food Processing Eng Design
+ENGG*4400*0101 (7206) Biomechanical Engineer Design
+ENGG*4400*0102 (7207) Biomechanical Engineer Design
+ENGG*4400*0103 (7208) Biomechanical Engineer Design
+ENGG*4400*0104 (7209) Biomechanical Engineer Design
+ENGG*4400*0105 (7210) Biomechanical Engineer Design
+ENGG*4430*01 (7212) Neuro-Fuzzy & Soft Comp Syst
+ENGG*4440*0101 (7213) Computational Fluid Dynamics
+ENGG*4440*0102 (7214) Computational Fluid Dynamics
+ENGG*4460*0101 (7216) Robotic Systems
+ENGG*4460*0103 (7218) Robotic Systems
+ENGG*4480*0101 (7219) Adv Mechatronic Systems Design
+ENGG*4510*0101 (7220) Assessment & Mngt of Risk
+ENGG*4510*0102 (7221) Assessment & Mngt of Risk
+ENGG*4540*0101 (7222) Advanced Computer Architecture
+ENGG*4550*0101 (7223) VLSI Digital Design
+ENGG*4550*0102 (7224) VLSI Digital Design
+ENGG*4560*0101 (7225) Embedded System Design
+ENGG*4580*0101 (7226) Sustainable Energy Sys. Design
+ENGG*4580*0102 (7227) Sustainable Energy Sys. Design
+ENGG*4660*0101 (7228) Medical Image Processing
+ENGG*4760*0101 (7229) Biological Wastewater Design
+ENGG*4760*0102 (7230) Biological Wastewater Design
+ENGG*4820*0101 (7231) Atmospheric Emission Control
+ENGG*4820*0102 (7232) Atmospheric Emission Control
+ENGL*1030*01 (7264) Effective Writing
+ENGL*1080*0101 (7265) Reading the Past
+ENGL*1080*0102 (7266) Reading the Past
+ENGL*1500*01 (7268) Medicine & Literature
+ENGL*2080*0101 (7269) Finding a Critical Voice
+ENGL*2080*0102 (7270) Finding a Critical Voice
+ENGL*2090*01 (7272) Studies in Shakespeare
+ENGL*2120*01 (7273) Seminar: Critical Practices
+ENGL*2120*02 (8974) Seminar: Critical Practices
+ENGL*2130*01 (7274) Literature and Social Change
+ENGL*2130*02 (7275) Literature and Social Change
+ENGL*2550*01 (7276) Native Literatures
+ENGL*2920*01 (7277) Elements of Creative Writing
+ENGL*3050*01 (7278) Intermediate Fiction Writing
+ENGL*3070*01 (7279) Intermediate Screenwriting
+ENGL*3240*01 (7280) Early Modern Literature
+ENGL*3870*01 (7281) Literary and Cultural Studies
+ENGL*3880*01 (9175) Literary and Cultural Studies
+ENGL*3940*01 (7282) Form, Genre & Literary Value
+ENGL*3940*02 (7283) Form, Genre & Literary Value
+ENGL*3960*01 (7284) Literature in History
+ENGL*3960*02 (7285) Literature in History
+ENGL*4250*01 (7286) 18th- & 19th-c Literatures
+ENGL*4270*01 (7287) United States Literatures
+ENGL*4280*01 (7288) Canadian Literatures
+ENGL*4310*01 (7289) Special Studies in English
+ENGL*4420*01 (7290) Women's Writings
+ENGL*4810*01 (9113) Directed Reading
+ENGL*4810*02 (9246) Directed Reading
+ENGL*4910*01 (7291) Honours English Essay
+ENGL*4910*02 (7292) Honours English Essay
+ENVM*3500*0101 (7302) Env. Management Int. Project
+ENVS*1060*DE01 (7303) Principles of Geology
+ENVS*2040*01 (7304) Plant Health & the Environment
+ENVS*2080*0101 (7305) Intro. Env. Microbiology
+ENVS*2080*0102 (7306) Intro. Env. Microbiology
+ENVS*2080*0103 (7307) Intro. Env. Microbiology
+ENVS*2080*0104 (9221) Intro. Env. Microbiology
+ENVS*2130*01 (7308) Eating Sustainably in Ontario
+ENVS*2210*DE01 (7309) Apiculture & Honey Bee Biology
+ENVS*2230*0101 (7310) Communications in Environ.
+ENVS*2250*DE01 (7311) Geology of Natural Disasters
+ENVS*2270*01 (7312) Impacts of Climate Change
+ENVS*2310*0101 (7313) Intro to Biogeochemistry
+ENVS*3000*DE01 (7314) Nature Interpretation
+ENVS*3020*01 (7315) Pesticides and the Environment
+ENVS*3050*01 (7316) Microclimatology
+ENVS*3060*01 (7317) Groundwater
+ENVS*3090*0101 (7318) Insect Diversity & Biology
+ENVS*3090*0102 (7319) Insect Diversity & Biology
+ENVS*3150*0101 (7320) Aquatic Systems
+ENVS*3150*0102 (7321) Aquatic Systems
+ENVS*3270*0101 (7322) Forest Biodiversity
+ENVS*3270*0102 (7323) Forest Biodiversity
+ENVS*3270*0103 (7324) Forest Biodiversity
+ENVS*3300*01 (7325) Intro to Controlled Env System
+ENVS*3310*0101 (7326) Soil Biodiversity & Functions
+ENVS*3370*01 (7327) Terrestrial Ecosystem Ecology
+ENVS*4000*01 (7328) Tox Risk Assessment
+ENVS*4002*01 (7329) Project in Enviro. Science
+ENVS*4030*01 (8973) Ecohydrology
+ENVS*4070*01 (7330) Pollinator Conservation
+ENVS*4100*0101 (7331) Integ Mgmt of Inv Insect Pests
+ENVS*4180*01 (7332) Bioactivity of Insecticides
+ENVS*4210*01 (7333) Meteor & Envir Instrumentation
+ENVS*4260*01 (7334) Field Entomology
+ENVS*4320*0101 (7335) Lab Methods Soil Biodiversity
+ENVS*4360*0101 (7336) Glacial Environments
+ENVS*4370*01 (7337) Environmental Organic Chem
+ENVS*4410*01 (7338) Intro to Advanced Ind Research
+ENVS*4420*01 (7339) Advanced Independent Research
+ENVS*4430*01 (7340) Advanced Independent Research
+ENVS*4510*01 (7341) Topics in Enviro Sciences
+EQN*2040*0101 (7361) Equine Anatomy & Physiology
+EQN*2040*0102 (7362) Equine Anatomy & Physiology
+EQN*2040*0103 (7363) Equine Anatomy & Physiology
+EQN*2040*0104 (7364) Equine Anatomy & Physiology
+EQN*2050*0101 (7365) Intro to Equine Nutrition
+EQN*2070*0101 (7366) Equine Event Management II
+EQN*2150*0101 (7367) Equine Facility Management
+EQN*3060*0101 (7368) Equine Reproduction
+EQN*4020*01 (7369) Advanced Equine Nutrition
+EURO*2200*01 (7370) Towards European Modernism
+EURO*3000*01 (7371) Revolution & the Fantastic
+EURO*3700*01 (7372) Experiential Learning & Lang
+EURO*3700*02 (7373) Experiential Learning & Lang
+EURO*4740*01 (7374) Research Project
+FARE*1040*0101 (7380) Env. Econ., Law and Policy
+FARE*1040*0102 (7381) Env. Econ., Law and Policy
+FARE*1040*0103 (7382) Env. Econ., Law and Policy
+FARE*1040*0104 (7383) Env. Econ., Law and Policy
+FARE*1040*0105 (7384) Env. Econ., Law and Policy
+FARE*1040*0106 (7385) Env. Econ., Law and Policy
+FARE*1300*01 (7386) Poverty, Food & Hunger
+FARE*1400*0101 (7387) Economics of the Agri-Food Sys
+FARE*1400*0102 (7388) Economics of the Agri-Food Sys
+FARE*1400*0103 (7389) Economics of the Agri-Food Sys
+FARE*1400*0104 (7390) Economics of the Agri-Food Sys
+FARE*1400*0105 (7391) Economics of the Agri-Food Sys
+FARE*1400*0106 (7392) Economics of the Agri-Food Sys
+FARE*2410*01 (7393) Agrifood Markets & Policy
+FARE*3170*01 (7394) Cost-Benefit Analysis
+FARE*3310*01 (7395) Operations Management
+FARE*4000*01 (7396) Agricultural and Food Policy
+FARE*4220*01 (7397) Advanced Agribusiness Mgmt
+FARE*4240*01 (7398) Futures and Options Markets
+FARE*4310*01 (7399) Resource Economics
+FARE*4360*01 (7400) Marketing Research
+FARE*4380*01 (7401) Retailing, Merch. & Sales
+FARE*4550*01 (7402) Independent Studies I
+FARE*4560*01 (7403) Independent Studies II
+FIN*3100*01 (7412) Corporate Finance
+FOOD*2010*DE01 (7419) Principles of Food Science
+FOOD*2100*01 (7420) Communication in Food Science
+FOOD*2410*DE01 (7421) Intro to Food Processing
+FOOD*2620*0101 (7422) Food Engineering Principles
+FOOD*3040*0101 (7423) Food Chemistry II
+FOOD*3040*0102 (7424) Food Chemistry II
+FOOD*3060*01 (7425) Food Chemistry II
+FOOD*3170*0101 (7426) Food Processing II
+FOOD*3170*0102 (7427) Food Processing II
+FOOD*3260*0101 (7428) Industrial Microbiology
+FOOD*3270*01 (7429) Industrial Microbiology
+FOOD*3700*0101 (7430) Sensory Evaluation of Foods
+FOOD*3700*0102 (7431) Sensory Evaluation of Foods
+FOOD*4090*01 (7432) Functional Foods & Nutraceut
+FOOD*4110*0101 (7433) Meat and Poultry Processing
+FOOD*4220*01 (7434) Topics in Food Science
+FOOD*4230*01 (7435) Research in Food Science
+FOOD*4270*0101 (7436) Food Product Development II
+FOOD*4270*0102 (7437) Food Product Development II
+FOOD*4310*DE01 (7438) Food Safety Management Systems
+FOOD*4400*0101 (7439) Dairy Processing
+FREN*1100*01 (7474) Basic French: Listening
+FREN*1150*01 (7475) Elementary French
+FREN*1200*0101 (7476) French Language I
+FREN*1200*0102 (7477) French Language I
+FREN*1200*0103 (7478) French Language I
+FREN*1200*0204 (7479) French Language I
+FREN*1200*0205 (7480) French Language I
+FREN*1200*0206 (7481) French Language I
+FREN*1300*0101 (7482) French Language II
+FREN*1300*0102 (7483) French Language II
+FREN*1300*0103 (7484) French Language II
+FREN*1300*0204 (7485) French Language II
+FREN*1300*0205 (7486) French Language II
+FREN*1300*0206 (7487) French Language II
+FREN*1300*0307 (7488) French Language II
+FREN*1300*0308 (7489) French Language II
+FREN*1300*0309 (7490) French Language II
+FREN*2020*0101 (7491) France: Literature & Society
+FREN*2020*0102 (7492) France: Literature & Society
+FREN*2020*0103 (7493) France: Literature & Society
+FREN*2060*0101 (7494) Quebec: Literature & Society
+FREN*2060*0102 (7495) Quebec: Literature & Society
+FREN*2060*0103 (7496) Quebec: Literature & Society
+FREN*2500*DE01 (7497) French Translation I
+FREN*2520*01 (7498) French Composition I
+FREN*2550*01 (7499) Contemporary France
+FREN*3090*01 (7500) Classics of French Lit.
+FREN*3110*01 (7501) Storytelllng Francophone World
+FREN*3520*01 (7502) French Composition II
+FREN*3700*01 (7503) Experiential Learning & Lang
+FREN*3700*02 (7504) Experiential Learning & Lang
+FREN*4290*01 (7505) Post-Colonial Francophone Fict
+FREN*4740*01 (7506) Res Paper in French Studies I
+FREN*4740*02 (7507) Res Paper in French Studies I
+FREN*4740*03 (7508) Res Paper in French Studies I
+FREN*4740*04 (7509) Res Paper in French Studies I
+FREN*4740*05 (7510) Res Paper in French Studies I
+FREN*4740*06 (7511) Res Paper in French Studies I
+FREN*4770*01 (7512) Res Paper in French Studies II
+FREN*4770*02 (7513) Res Paper in French Studies II
+FRHD*1010*01 (7519) Human Development
+FRHD*1020*01 (7520) Couple & Family Relationships
+FRHD*1020*02 (7521) Couple & Family Relationships
+FRHD*1100*DE01 (7522) Life: Health and Well-Being
+FRHD*2040*01 (7523) Program Design for Children
+FRHD*2100*DE01 (7524) Development of Human Sexuality
+FRHD*2260*01 (7525) Infant Development
+FRHD*2280*01 (7526) Adolescent Development
+FRHD*2400*0101 (7527) Introduction to Human Services
+FRHD*2400*0102 (7528) Introduction to Human Services
+FRHD*3040*01 (7529) Parenting & Intergen Relations
+FRHD*3090*01 (7530) Poverty & Health
+FRHD*3150*01 (7531) Strategies for Behaviour Chg
+FRHD*3190*DE01 (7532) Admin of Programs for Children
+FRHD*3200*0101 (7533) Practicum I: Child
+FRHD*3200*0102 (7534) Practicum I: Child
+FRHD*3250*01 (7535) Practicum: Youth
+FRHD*3290*01 (7536) Practicum I: Adult Development
+FRHD*3400*0101 (7537) Communication & Couns Skills
+FRHD*3400*0102 (7538) Communication & Couns Skills
+FRHD*3400*0103 (7539) Communication & Couns Skills
+FRHD*3400*0104 (7540) Communication & Couns Skills
+FRHD*3400*0105 (7541) Communication & Couns Skills
+FRHD*3400*0106 (7542) Communication & Couns Skills
+FRHD*3400*0107 (7543) Communication & Couns Skills
+FRHD*3400*0108 (7544) Communication & Couns Skills
+FRHD*3500*01 (7545) Research Internship
+FRHD*3500*02 (7548) Research Internship
+FRHD*3500*03 (7551) Research Internship
+FRHD*3500*04 (7554) Research Internship
+FRHD*3500*05 (7557) Research Internship
+FRHD*3500*06 (7560) Research Internship
+FRHD*3500*07 (7563) Research Internship
+FRHD*3500*08 (7559) Research Internship
+FRHD*3500*09 (7564) Research Internship
+FRHD*3500*10 (7565) Research Internship
+FRHD*4070*01 (7566) Fam. Relations & Human Dvlmt
+FRHD*4080*01 (7567) Fam. Relations & Human Dvlmt
+FRHD*4200*01 (7568) Issues in Human Sexuality
+FRHD*4250*01 (7569) Aging and Health
+FRHD*4260*01 (7570) Social Policy & Gerontology
+FRHD*4290*01 (7571) Practicum II: Adult Developmt
+FRHD*4320*01 (7572) Social Policies
+FRHD*4330*01 (7573) Practicum II: Child
+FRHD*4340*01 (7574) Practicum II: Youth
+FRHD*4350*01 (7575) Practicum III: Child
+FRHD*4400*01 (7576) Youth, Risk & Resilience
+FRHD*4810*01 (7577) Thesis I
+FRHD*4810*02 (7578) Thesis I
+FRHD*4810*03 (7579) Thesis I
+FRHD*4810*04 (7580) Thesis I
+FRHD*4810*05 (7581) Thesis I
+FRHD*4910*01 (7582) Thesis II
+FRHD*4910*02 (7583) Thesis II
+FRHD*4910*03 (7584) Thesis II
+FRHD*4910*04 (7585) Thesis II
+FRHD*4910*05 (7586) Thesis II
+GEOG*1220*01 (7590) Human Impact on the Environmen
+GEOG*1220*DE01 (7591) Human Impact on the Environmen
+GEOG*1300*0101 (7592) Intro to the Biophysical Env
+GEOG*1300*0102 (7593) Intro to the Biophysical Env
+GEOG*1300*0103 (7594) Intro to the Biophysical Env
+GEOG*1300*0104 (7595) Intro to the Biophysical Env
+GEOG*1300*0105 (7596) Intro to the Biophysical Env
+GEOG*1300*0106 (7597) Intro to the Biophysical Env
+GEOG*1300*0107 (7598) Intro to the Biophysical Env
+GEOG*1300*0108 (7599) Intro to the Biophysical Env
+GEOG*1350*01 (7600) Earth: Hazards & Global Change
+GEOG*2110*0101 (7601) Climate & the Biophysical Env
+GEOG*2110*0102 (7602) Climate & the Biophysical Env
+GEOG*2110*0103 (7603) Climate & the Biophysical Env
+GEOG*2110*0104 (7604) Climate & the Biophysical Env
+GEOG*2110*0105 (9193) Climate & the Biophysical Env
+GEOG*2210*01 (7605) Environment and Resources
+GEOG*2260*0101 (7606) Applied Human Geography
+GEOG*2260*0102 (7607) Applied Human Geography
+GEOG*2480*0101 (7608) Mapping and GIS
+GEOG*2480*0102 (7609) Mapping and GIS
+GEOG*2480*0103 (7610) Mapping and GIS
+GEOG*2480*0104 (7611) Mapping and GIS
+GEOG*2510*DE01 (7614) Canada: a Regional Synthesis
+GEOG*3020*DE01 (7615) Global Environmental Change
+GEOG*3050*01 (7616) Development and the City
+GEOG*3420*0101 (7617) Remote Sensing of the Environm
+GEOG*3420*0102 (7618) Remote Sensing of the Environm
+GEOG*3480*0101 (7619) GIS and Spatial Analysis
+GEOG*3480*0102 (7620) GIS and Spatial Analysis
+GEOG*3490*01 (7621) Tourism and Environment
+GEOG*3610*01 (7622) Environmental Hydrology
+GEOG*4150*0101 (7623) Catchment Processes
+GEOG*4150*0102 (7624) Catchment Processes
+GEOG*4220*0101 (7626) Local Environmental Management
+GEOG*4220*0102 (7627) Local Environmental Management
+GEOG*4220*0103 (7628) Local Environmental Management
+GEOG*4230*01 (7629) Environmtl Impact Assessment
+GEOG*4390*01 (7630) Seminar in Rural Geography
+GEOG*4480*0101 (7631) Applied Geomatics
+GEOG*4480*0102 (7632) Applied Geomatics
+GEOG*4990*01 (7633) Independent Study in Geography
+GERM*1100*0101 (7642) Introductory German I
+GERM*1100*0102 (7643) Introductory German I
+GERM*1100*0103 (7644) Introductory German I
+GERM*1100*0104 (7645) Introductory German I
+GERM*1100*0105 (7646) Introductory German I
+GERM*1100*0106 (7647) Introductory German I
+GERM*1110*0101 (7648) Introductory German II
+GERM*1110*0102 (7649) Introductory German II
+GERM*3150*DE01 (7650) Interactive Geman Lang. & Cult
+GERM*3470*01 (9213) Holocaust & WWII/ Germ Lit
+GERM*3600*01 (7651) Directed Readings in German
+GERM*3700*01 (7653) Experiential Learning & Lang
+GERM*3700*02 (7654) Experiential Learning & Lang
+GERM*4940*01 (7655) Research Paper in German Std
+GERM*4940*02 (7656) Research Paper in German Std
+GREK*1100*01 (7657) Preliminary Greek I
+HIST*1010*01 (7774) Early Modern Europe
+HIST*1050*01 (7775) Invitation to History
+HIST*1050*02 (7776) Invitation to History
+HIST*1150*01 (7777) The Modern World
+HIST*1150*02 (7778) The Modern World
+HIST*1250*01 (7779) Sci & Tech in a Global Context
+HIST*2020*0101 (7780) Film as History
+HIST*2040*DE01 (7781) War and Society
+HIST*2090*01 (7782) Indigenous Peoples - Americas
+HIST*2120*DE01 (7783) Animals and Society
+HIST*2130*01 (7784) Modern Sport - a Global Hist
+HIST*2190*01 (7785) Celtic Ireland and Britain
+HIST*2250*DE01 (7786) Environment and History
+HIST*2340*01 (7787) Slavery & Migr in the Atlantic
+HIST*2450*0101 (7788) The Practising Historian
+HIST*2450*0102 (7789) The Practising Historian
+HIST*2450*0103 (7790) The Practising Historian
+HIST*2600*0101 (7791) Post-Confederation Canada
+HIST*2600*0102 (7792) Post-Confederation Canada
+HIST*2600*0103 (7793) Post-Confederation Canada
+HIST*2600*0104 (7794) Post-Confederation Canada
+HIST*2600*0105 (7795) Post-Confederation Canada
+HIST*2910*01 (7796) Modern Asia
+HIST*3180*01 (7797) Canada Since 1945
+HIST*3240*01 (7798) Food History
+HIST*3270*01 (7799) Revolution in the Modern World
+HIST*3310*01 (7800) Disease and History
+HIST*3450*01 (7801) The Uses of History
+HIST*3470*01 (7802) Ind Reading/Workplace Learning
+HIST*3480*01 (7803) Workplace Learning
+HIST*3480*02 (7804) Workplace Learning
+HIST*3480*03 (7805) Workplace Learning
+HIST*3480*04 (8981) Workplace Learning
+HIST*3480*05 (9163) Workplace Learning
+HIST*3480*06 (9164) Workplace Learning
+HIST*3520*01 (7806) The Vikings
+HIST*3560*01 (7807) Experiential Learning
+HIST*3560*02 (7808) Experiential Learning
+HIST*3600*01 (7809) Quebec & French Canada
+HIST*3640*01 (7810) Madness and Psychiatry
+HIST*3820*01 (7811) Early Modern France
+HIST*3840*01 (7812) Ottoman Empire, 1300-1923
+HIST*4070*01 (9192) Experiential Learning-Research
+HIST*4120*01 (7813) Topics in Global History
+HIST*4170*01 (7814) Digital Humanities
+HIST*4270*01 (9161) Topics in Modern Asia
+HIST*4470*01 (7815) Special Hist Proj Seminar I
+HIST*4580*01 (7816) The French Revolution
+HIST*4620*01 (7817) Sem in Canadian Rural History
+HIST*4700*01 (7818) Premodern History
+HIST*4970*01 (7819) Special Hist Proj Seminar II
+HK*2810*01 (7861) Human Physiology I
+HK*3100*01 (7862) Neuromuscular Physiology
+HK*3402*0101 (7863) Human Anatomy: Dissection
+HK*3402*0102 (7864) Human Anatomy: Dissection
+HK*3402*0103 (7865) Human Anatomy: Dissection
+HK*3402*0104 (7866) Human Anatomy: Dissection
+HK*3502*0101 (7867) Human Anatomy: Prosection
+HK*3502*0102 (7868) Human Anatomy: Prosection
+HK*4070*0101 (7869) Clinical Biomechanics
+HK*4070*0102 (7870) Clinical Biomechanics
+HK*4070*0103 (7871) Clinical Biomechanics
+HK*4230*01 (7872) Adv Study Hum Hlth & Nutr Sci
+HK*4240*0101 (7873) Occup Biomech Ergonomics
+HK*4240*0102 (7874) Occup Biomech Ergonomics
+HK*4240*0103 (7875) Occup Biomech Ergonomics
+HK*4360*01 (7876) Res in Human Hlth & Nutr Sci
+HK*4371*01 (7877) Res in Hum Hlth & Nutr Sci II
+HK*4372*01 (7878) Res in Hum Hlth & Nutr Sci II
+HK*4442*0101 (7879) Advanced Study in Human Anat.
+HK*4442*0102 (7880) Advanced Study in Human Anat.
+HK*4460*01 (7881) Regulation of Human Metabolism
+HK*4510*01 (7882) Teaching, Learning & Knowledge
+HK*4511*01 (7883) Teaching-Learning-Knowledge II
+HK*4512*01 (7884) Teaching-Learning-Knowledge II
+HK*4600*0101 (7885) Applied Human Kinetics II
+HK*4600*0102 (7886) Applied Human Kinetics II
+HK*4600*0103 (7887) Applied Human Kinetics II
+HK*4600*0104 (7888) Applied Human Kinetics II
+HORT*1120*DE01 (7890) Grape and Wine Science
+HORT*3270*01 (7891) Medicinal Plants
+HORT*3280*0101 (7892) Greenhouse Production
+HORT*3310*01 (7893) Plants, Food & Health
+HORT*3430*DE01 (7894) Wine-Grape Culture
+HORT*4450*0101 (7895) Advanced Turfgrass Science
+HROB*2010*01 (7896) Foundations of Leadership
+HROB*2010*DE01 (7897) Foundations of Leadership
+HROB*2090*01 (7898) Individuals & Groups in Orgs
+HROB*2090*02 (7899) Individuals & Groups in Orgs
+HROB*2090*DE01 (7900) Individuals & Groups in Orgs
+HROB*2290*01 (7901) Human Resources Management
+HROB*2290*DE01 (7902) Human Resources Management
+HROB*3030*01 (7903) Occupational Health and Safety
+HROB*3090*01 (7904) Training and Development
+HROB*3100*01 (7905) Dev Mgmt & Ldshp Competencies
+HROB*3100*02 (7906) Dev Mgmt & Ldshp Competencies
+HROB*4000*01 (7907) Lead & Org Mgmt Capstone
+HROB*4010*DE01 (7908) Leadership Certif Capstone
+HROB*4060*01 (7909) Human Resource Planning
+HTM*1160*01 (7910) Lodging Operations
+HTM*2010*0101 (7911) Hosp & Tourism Business Comm
+HTM*2010*0102 (7912) Hosp & Tourism Business Comm
+HTM*2020*01 (7913) Sports & Event Tourism
+HTM*2030*0101 (7914) Control Syst/Hospitality Ind
+HTM*2030*0102 (7915) Control Syst/Hospitality Ind
+HTM*2070*01 (7916) Event Management
+HTM*2700*0101 (7917) Understanding Foods
+HTM*2700*0102 (7918) Understanding Foods
+HTM*2700*0103 (7919) Understanding Foods
+HTM*3080*0101 (7921) Marketing Strategy Hosp Mgrs
+HTM*3090*0101 (7922) Restaurant Operations Mngt
+HTM*3090*0102 (7923) Restaurant Operations Mngt
+HTM*3090*0103 (7924) Restaurant Operations Mngt
+HTM*3120*01 (7926) Service Operations Analysis
+HTM*3780*DE01 (7927) Managing Food in Canada
+HTM*4050*01011 (7928) Wine and Oenology
+HTM*4060*01 (7929) Advanced Lodging Mgmt
+HTM*4080*0101 (7930) Experiential Learning
+HTM*4080*0102 (7931) Experiential Learning
+HTM*4110*0101 (7932) Advanced Restaurant Operations
+HTM*4130*01 (9212) Current Management Topics
+HTM*4140*01 (7933) Current Management Topics
+HTM*4150*01 (7934) Current Management Issues
+HTM*4170*01 (7935) International Tourism
+HTM*4190*01 (7936) Industry Consultation
+HTM*4250*01 (7937) Hospitality Revenue Management
+HTM*4500*01 (7938) Special Study
+HTM*4500*02 (7939) Special Study
+HUMN*1300*01 (7943) Fund of Arts Management I
+HUMN*3000*01 (9247) Narratives of Migration
+HUMN*3190*01 (7944) Experiential Learning
+HUMN*3190*02 (7945) Experiential Learning
+HUMN*3190*03 (9202) Experiential Learning
+HUMN*3190*04 (9208) Experiential Learning
+HUMN*3400*01 (7946) Renaissance Lovers and Fools
+HUMN*4190*01 (7947) Experiential Learning
+HUMN*4190*02 (9201) Experiential Learning
+HUMN*4190*03 (9203) Experiential Learning
+IBIO*3100*0101 (7948) Interpreting Biodiversity I
+IBIO*4500*0101 (7949) Research in Integrative Biol I
+IBIO*4510*0101 (7950) Research/ Integrative Biol II
+IBIO*4522*0101 (7951) Thesis in Integrative Biology
+IDEV*1000*0101 (7956) Understanding Development
+IDEV*1000*0102 (7957) Understanding Development
+IDEV*1000*0103 (7958) Understanding Development
+IDEV*1000*0104 (7959) Understanding Development
+IDEV*1000*0105 (7960) Understanding Development
+IDEV*2400*01 (7961) Social Justice & Human Rights
+IDEV*3200*01 (7962) Individual Work/Study in I.D.
+IDEV*3300*01 (7963) Development Practice
+IDEV*3400*01 (7964) Managing/Evaluating Change
+IDEV*4190*01 (7965) Regional Context
+IDEV*4200*01 (7966) Adv. Work/Study Int. Devel.
+IDEV*4500*01 (7967) International Devlpmt Seminar
+INDG*1100*01 (7972) Indigenous Language & Culture
+IPS*1510*0102 (7974) Int. Math. Phys. II
+IPS*1510*0103 (7975) Int. Math. Phys. II
+IPS*1510*0104 (7976) Int. Math. Phys. II
+IPS*1510*0105 (7977) Int. Math. Phys. II
+ITAL*1060*DE01 (7978) Introductory Italian I
+ITAL*1070*0101 (7979) Introductory Italian II
+ITAL*1070*0102 (7980) Introductory Italian II
+ITAL*3060*01 (7981) Advanced Italian
+ITAL*3400*01 (7982) Renaissance Lovers and Fools
+ITAL*3700*01 (7983) Experiential Learning & Lang
+ITAL*3700*02 (7984) Experiential Learning & Lang
+ITAL*4900*01 (7985) Research Project in Ital Stud
+LARC*2020*0101 (7988) Foundational Design Studio
+LARC*2230*0101 (7989) Planting Design
+LARC*2420*01 (7990) Materials and Techniques
+LARC*2820*01 (7991) Urban and Regional Planning
+LARC*2820*DE01 (7992) Urban and Regional Planning
+LARC*3050*0101 (7993) Urban Design Studio
+LARC*3430*0101 (7994) Introduction to Construction
+LARC*3500*01 (7995) Independent Study
+LARC*4090*01 (7996) Seminar
+LARC*4620*01 (7997) Landscape Architecture Intern
+LARC*4710*0101 (7998) Capstone Design Studio
+LARC*4730*01 (7999) Special Study in Landscape Arc
+LARC*4740*01 (8000) Case Studies
+LAT*1110*01 (8008) Preliminary Latin II
+LAT*4100*01 (8009) Directed Readings in Latin Lit
+LAT*4100*02 (8010) Directed Readings in Latin Lit
+LAT*4100*03 (8011) Directed Readings in Latin Lit
+LAT*4150*01 (8012) Research Paper: Latin
+LAT*4150*02 (8013) Research Paper: Latin
+LING*1000*DE01 (8020) Introduction to Linguistics
+LING*2400*01 (8021) Phonetics
+MATH*1030*01 (8027) Business Mathematics
+MATH*1080*0101 (8028) Elements of Calculus I
+MATH*1090*0101 (8029) Elements of Calculus II
+MATH*1160*01 (8030) Linear Algebra I
+MATH*1160*02 (8031) Linear Algebra I
+MATH*1160*03 (8032) Linear Algebra I
+MATH*1210*0101 (8033) Calculus II
+MATH*1210*0102 (8034) Calculus II
+MATH*1210*0201 (8035) Calculus II
+MATH*1210*0202 (8036) Calculus II
+MATH*2130*0101 (8037) Numerical Methods
+MATH*2130*0102 (8038) Numerical Methods
+MATH*2130*0103 (8039) Numerical Methods
+MATH*2130*0104 (8040) Numerical Methods
+MATH*2130*0105 (8041) Numerical Methods
+MATH*2130*0106 (8042) Numerical Methods
+MATH*2130*0107 (8043) Numerical Methods
+MATH*2130*0108 (8044) Numerical Methods
+MATH*2130*0109 (8045) Numerical Methods
+MATH*2130*0110 (8046) Numerical Methods
+MATH*2130*0201 (8049) Numerical Methods
+MATH*2130*0202 (8050) Numerical Methods
+MATH*2130*0203 (8051) Numerical Methods
+MATH*2130*0204 (8052) Numerical Methods
+MATH*2130*0205 (8053) Numerical Methods
+MATH*2130*0206 (8054) Numerical Methods
+MATH*2130*0207 (8055) Numerical Methods
+MATH*2130*0208 (8056) Numerical Methods
+MATH*2130*0209 (8057) Numerical Methods
+MATH*2130*0210 (8058) Numerical Methods
+MATH*2210*01 (8061) Advanced Calculus II
+MATH*3100*0101 (8062) Differential Equations II
+MATH*3160*01 (8063) Linear Algebra II
+MATH*3260*01 (8064) Complex Analysis
+MATH*3510*01 (8065) Biomathematics
+MATH*4050*01 (9114) Topics in Mathematics I
+MATH*4060*01 (8066) Topics in Mathematics II
+MATH*4200*01 (8067) Advanced Analysis
+MATH*4440*01 (8068) Case Studies in Math & Stats
+MATH*4600*01 (8069) Adv Research Project in Math
+MBG*1000*0101 (8074) Genetics and Society
+MBG*1000*0102 (8075) Genetics and Society
+MBG*1000*0103 (8076) Genetics and Society
+MBG*2040*0101 (8078) Foundations Mol Biol Genetics
+MBG*2040*0102 (8079) Foundations Mol Biol Genetics
+MBG*2040*0103 (8080) Foundations Mol Biol Genetics
+MBG*2040*0104 (8081) Foundations Mol Biol Genetics
+MBG*2040*0105 (8082) Foundations Mol Biol Genetics
+MBG*2040*0106 (8083) Foundations Mol Biol Genetics
+MBG*2040*0107 (8084) Foundations Mol Biol Genetics
+MBG*2040*0108 (8085) Foundations Mol Biol Genetics
+MBG*3050*0101 (8086) Human Genetics
+MBG*3050*0102 (8087) Human Genetics
+MBG*3050*0103 (8088) Human Genetics
+MBG*3050*0104 (8089) Human Genetics
+MBG*3060*01 (8090) Quantitative Genetics
+MBG*3100*0101 (8091) Plant Genetics
+MBG*3350*0101 (8092) Lab Methods in Molecular Biol
+MBG*3350*0102 (8093) Lab Methods in Molecular Biol
+MBG*3350*0103 (8094) Lab Methods in Molecular Biol
+MBG*3350*0104 (8095) Lab Methods in Molecular Biol
+MBG*3660*01 (8097) Genomics
+MBG*4030*0101 (8098) Animal Breeding Methods
+MBG*4030*0102 (8099) Animal Breeding Methods
+MBG*4240*01 (8100) Adv. Mol. Biol. Techniques
+MBG*4270*01 (8101) DNA Repl'n, Recomb & Repair
+MCB*2050*0101 (8102) Molecular Biology of the Cell
+MCB*2050*0102 (8103) Molecular Biology of the Cell
+MCB*2050*0103 (8104) Molecular Biology of the Cell
+MCB*2050*0104 (8105) Molecular Biology of the Cell
+MCB*2050*0105 (8106) Molecular Biology of the Cell
+MCB*2050*0106 (8107) Molecular Biology of the Cell
+MCB*2050*0107 (8108) Molecular Biology of the Cell
+MCB*2050*0108 (8109) Molecular Biology of the Cell
+MCB*2050*0109 (8110) Molecular Biology of the Cell
+MCB*2050*0110 (8111) Molecular Biology of the Cell
+MCB*2050*0111 (8112) Molecular Biology of the Cell
+MCB*2050*0112 (8113) Molecular Biology of the Cell
+MCB*2050*0213 (8114) Molecular Biology of the Cell
+MCB*2050*0214 (8115) Molecular Biology of the Cell
+MCB*2050*0215 (8116) Molecular Biology of the Cell
+MCB*2050*0216 (8117) Molecular Biology of the Cell
+MCB*2050*0217 (8118) Molecular Biology of the Cell
+MCB*2050*0218 (8119) Molecular Biology of the Cell
+MCB*3010*01 (8120) Cell Function & Signaling
+MCB*4010*01 (8121) Advanced Cell Biology
+MCB*4500*0101 (8122) Research Project in MCB I
+MCB*4510*0101 (8123) Research Project in MCB II
+MCB*4510*0102 (8124) Research Project in MCB II
+MCB*4510*0103 (8125) Research Project in MCB II
+MCB*4510*0104 (8126) Research Project in MCB II
+MCB*4510*0105 (8127) Research Project in MCB II
+MCB*4510*0106 (8128) Research Project in MCB II
+MCB*4510*0107 (8129) Research Project in MCB II
+MCB*4510*0108 (8130) Research Project in MCB II
+MCB*4510*0109 (8131) Research Project in MCB II
+MCB*4510*0110 (8132) Research Project in MCB II
+MCB*4510*0111 (8133) Research Project in MCB II
+MCB*4510*0112 (8134) Research Project in MCB II
+MCB*4510*0113 (8135) Research Project in MCB II
+MCB*4510*0114 (8136) Research Project in MCB II
+MCB*4510*0115 (8137) Research Project in MCB II
+MCB*4510*0116 (8138) Research Project in MCB II
+MCB*4510*0117 (8139) Research Project in MCB II
+MCB*4510*0118 (8140) Research Project in MCB II
+MCB*4510*0119 (8141) Research Project in MCB II
+MCB*4510*0120 (8142) Research Project in MCB II
+MCB*4510*0121 (8143) Research Project in MCB II
+MCB*4510*0122 (8144) Research Project in MCB II
+MCB*4510*0123 (8145) Research Project in MCB II
+MCB*4510*0124 (8146) Research Project in MCB II
+MCB*4510*0125 (8147) Research Project in MCB II
+MCB*4510*0126 (8148) Research Project in MCB II
+MCB*4510*0127 (8149) Research Project in MCB II
+MCB*4510*0128 (8150) Research Project in MCB II
+MCB*4510*0129 (8151) Research Project in MCB II
+MCB*4510*0130 (8152) Research Project in MCB II
+MCB*4510*0131 (8153) Research Project in MCB II
+MCB*4510*0132 (8154) Research Project in MCB II
+MCB*4510*0133 (8155) Research Project in MCB II
+MCB*4510*0134 (8156) Research Project in MCB II
+MCB*4510*0135 (8157) Research Project in MCB II
+MCB*4510*0136 (8158) Research Project in MCB II
+MCB*4510*0137 (8159) Research Project in MCB II
+MCB*4510*0138 (8160) Research Project in MCB II
+MCB*4510*0139 (8161) Research Project in MCB II
+MCB*4510*0140 (8162) Research Project in MCB II
+MCB*4600*0101 (8163) Topics in MCB
+MCS*1000*0101 (8167) Introductory Marketing
+MCS*1000*0102 (8168) Introductory Marketing
+MCS*1000*0103 (8169) Introductory Marketing
+MCS*1000*0104 (8170) Introductory Marketing
+MCS*1000*0105 (8171) Introductory Marketing
+MCS*1000*0106 (8172) Introductory Marketing
+MCS*1000*0107 (8173) Introductory Marketing
+MCS*1000*0208 (8174) Introductory Marketing
+MCS*1000*0209 (8175) Introductory Marketing
+MCS*1000*0210 (8176) Introductory Marketing
+MCS*1000*0211 (8177) Introductory Marketing
+MCS*1000*0212 (8178) Introductory Marketing
+MCS*1000*0213 (8179) Introductory Marketing
+MCS*1000*0214 (8180) Introductory Marketing
+MCS*1000*DE01 (8181) Introductory Marketing
+MCS*2000*DE01 (8182) Bus Commun in a Changing World
+MCS*2020*01 (8183) Information Management
+MCS*2020*02 (8184) Information Management
+MCS*2020*DE01 (8185) Information Management
+MCS*2100*DE01 (8186) Personal Financial Mgmt
+MCS*2600*01 (8187) Consumer Behaviour
+MCS*2600*02 (8188) Consumer Behaviour
+MCS*2600*03 (8189) Consumer Behaviour
+MCS*3010*01 (8190) Quality Management
+MCS*3030*01 (8191) Research Methods
+MCS*3040*01 (8192) Business and Consumer Law
+MCS*3040*02 (8193) Business and Consumer Law
+MCS*3040*DE01 (8194) Business and Consumer Law
+MCS*3050*01 (8195) Digital Marketing
+MCS*3500*01 (8196) Marketing Analytics
+MCS*3500*02 (8197) Marketing Analytics
+MCS*3600*01 (8198) Consumer Information Processes
+MCS*3600*02 (8199) Consumer Information Processes
+MCS*3620*01 (8200) Marketing Communications
+MCS*3620*02 (8201) Marketing Communications
+MCS*4020*01 (8202) Research in Consumer Studies
+MCS*4060*01 (8203) Retail Management
+MCS*4100*01 (8204) Entrepreneurship
+MCS*4370*01 (8205) Marketing Strategy
+MCS*4370*02 (8206) Marketing Strategy
+MCS*4600*01 (8207) International Marketing
+MCS*4600*02 (8208) International Marketing
+MCS*4910*01 (8209) Topics in Consumer Studies
+MCS*4920*01 (8210) Topics in Consumer Studies
+MCS*4920*02 (9160) Topics in Consumer Studies
+MGMT*1100*EL01 (8217) Business Career Preparation
+MGMT*1100*EL02 (8218) Business Career Preparation
+MGMT*1100*EL03 (8219) Business Career Preparation
+MGMT*1100*EL04 (8220) Business Career Preparation
+MGMT*1200*01 (8221) Principles of Management
+MGMT*2150*DE01 (8222) Intro to Canadian Business
+MGMT*3020*01 (8223) Corp Social Responsibility
+MGMT*3020*DE01 (8224) Corp Social Responsibility
+MGMT*3030*0101 (8225) Managerial Comms. & Leadership
+MGMT*3300*01 (8226) Project Management
+MGMT*3320*01 (8227) Financial Management
+MGMT*3320*02 (8228) Financial Management
+MGMT*3320*03 (8229) Financial Management
+MGMT*3320*04 (8230) Financial Management
+MGMT*3320*05 (8231) Financial Management
+MGMT*3320*DE01 (8232) Financial Management
+MGMT*4000*0101 (8233) Strategic Management
+MGMT*4000*0102 (8234) Strategic Management
+MGMT*4000*0103 (8235) Strategic Management
+MGMT*4000*0104 (8236) Strategic Management
+MGMT*4000*0105 (8237) Strategic Management
+MGMT*4000*0106 (8238) Strategic Management
+MGMT*4000*0107 (8239) Strategic Management
+MGMT*4000*0108 (8240) Strategic Management
+MGMT*4000*0109 (8241) Strategic Management
+MGMT*4030*0101 (8242) Food Product Development II
+MGMT*4030*0102 (8243) Food Product Development II
+MGMT*4050*01 (9147) Business Consulting
+MGMT*4060*01 (8244) Business Consulting
+MGMT*4060*02 (8245) Business Consulting
+MGMT*4260*01 (8246) International Business
+MGMT*4992*01 (8247) Management Thesis
+MGMT*4992*02 (8248) Management Thesis
+MICR*2420*0101 (8256) Introduction to Microbiology
+MICR*2420*0102 (8257) Introduction to Microbiology
+MICR*2420*0103 (8258) Introduction to Microbiology
+MICR*2420*0104 (8259) Introduction to Microbiology
+MICR*2430*0101 (8260) Methods in Microb Cult & Phys
+MICR*2430*0102 (8261) Methods in Microb Cult & Phys
+MICR*2430*0103 (8262) Methods in Microb Cult & Phys
+MICR*3260*0101 (8263) Microbial Adaptation
+MICR*3260*0102 (8264) Microbial Adaptation
+MICR*3430*0101 (8265) Adv Methods in Microbiology
+MICR*3430*0102 (8266) Adv Methods in Microbiology
+MICR*3430*0103 (8267) Adv Methods in Microbiology
+MICR*4010*01 (8268) Pathogenic Microbiology
+MICR*4330*0101 (8269) Molecular Virology
+MICR*4330*0102 (8270) Molecular Virology
+MICR*4430*01 (8271) Medical Virology
+MUSC*1130*DE01 (8272) Introduction to Musicianship
+MUSC*1180*01 (8273) Musicianship I
+MUSC*1180*02 (8274) Musicianship I
+MUSC*1500*01 (8275) Applied Music I
+MUSC*1510*01 (8276) Applied Music II
+MUSC*2100*01 (8277) Creating Music on the Computer
+MUSC*2140*DE01 (8278) History of Jazz
+MUSC*2150*01 (8279) Music & Popular Culture
+MUSC*2180*01 (8280) Musicianship II
+MUSC*2270*01 (8281) World Music
+MUSC*2330*01 (8282) Music & Culture II
+MUSC*2420*01 (8283) Applied Composition II
+MUSC*2500*01 (8284) Applied Music III
+MUSC*2510*01 (8285) Applied Music IV
+MUSC*2530*01 (8286) Instrumental Ensembles I
+MUSC*2530*02 (8287) Instrumental Ensembles I
+MUSC*2540*01 (8288) Instrumental Ensembles II
+MUSC*2540*02 (8289) Instrumental Ensembles II
+MUSC*2550*01 (8290) Choral Ensembles I
+MUSC*2560*01 (8291) Choral Ensembles II
+MUSC*2570*01 (8292) Keyboard Accompaniment I
+MUSC*2580*01 (8293) Keyboard Accompaniment II
+MUSC*3010*01 (8294) Materials of Music II
+MUSC*3210*01 (8295) Instrumental Ensembles III
+MUSC*3210*02 (8296) Instrumental Ensembles III
+MUSC*3220*01 (8297) Instrumental Ensembles IV
+MUSC*3220*02 (8298) Instrumental Ensembles IV
+MUSC*3230*01 (8299) Choral Ensembles III
+MUSC*3240*01 (8300) Choral Ensembles IV
+MUSC*3410*01 (8301) Applied Composition III
+MUSC*3420*01 (8302) Applied Composition IV
+MUSC*3500*01 (8303) Applied Music V
+MUSC*3510*01 (8304) Applied Music VI
+MUSC*3550*01 (8305) Collab Performance Project I
+MUSC*3560*01 (8306) Collab Performance Project II
+MUSC*3800*01 (8307) Topics in Music Hist/Analysis
+MUSC*4200*01 (8308) Independent Project in Music
+MUSC*4450*01 (8309) Honours Seminar in Music
+MUSC*4460*01 (8310) Honours Music Recital Prep
+MUSC*4470*01 (8311) Honours Music Recital
+NANO*2100*0101 (8312) Synth & Char of Nanomat II
+NANO*3300*0101 (8314) Spectroscopy of Nanomaterials
+NANO*3600*0101 (8315) Comptl Methods in Material Sci
+NANO*4200*01 (8316) Topics in Nanomaterials
+NANO*4910*01 (8317) Nanoscience Research Project I
+NANO*4920*01 (8318) Nanoscience Research Proj II
+NEUR*3500*0101 (8319) Techniques in Neuroscience
+NEUR*3500*0102 (8320) Techniques in Neuroscience
+NEUR*4401*01 (8321) Research in Neurosciences
+NEUR*4402*01 (8322) Research in Neurosciences
+NEUR*4450*01 (8323) Research in Neurosciences
+NUTR*1010*01 (8326) Introduction to Nutrition
+NUTR*1020*01 (8327) Professional Practice
+NUTR*2050*DE01 (8328) Nutrition Thru the Life Cycle
+NUTR*3070*01 (8329) Nutrition & Activity Programs
+NUTR*3090*0101 (8330) Clinical Nutrition I
+NUTR*3090*0102 (8331) Clinical Nutrition I
+NUTR*3110*01 (8332) Food Security
+NUTR*3150*01 (8333) Aging and Nutrition
+NUTR*3210*01 (8334) Fundamentals of Nutrition
+NUTR*3210*DE01 (8335) Fundamentals of Nutrition
+NUTR*4090*01 (8336) Functional Foods & Nutraceut
+NUTR*4120*01 (8337) Applied Clinical Skills
+NUTR*4320*01 (8338) Nutrition & Metabolic Control
+NUTR*4330*0101 (8339) Appl Nutri & Nutraceutical Sci
+NUTR*4330*0102 (8340) Appl Nutri & Nutraceutical Sci
+NUTR*4360*01 (8341) Current Issues/ Nutrigenomics
+NUTR*4810*01 (8342) Thesis I
+NUTR*4810*02 (8343) Thesis I
+NUTR*4810*03 (8344) Thesis I
+NUTR*4810*04 (8345) Thesis I
+NUTR*4810*05 (8346) Thesis I
+NUTR*4850*01 (8347) Nutrition Education Fieldwork
+NUTR*4900*01 (8348) Topics in Human Nutrition
+NUTR*4900*02 (8349) Topics in Human Nutrition
+NUTR*4900*03 (8350) Topics in Human Nutrition
+NUTR*4900*04 (8351) Topics in Human Nutrition
+NUTR*4910*01 (8352) Thesis II
+NUTR*4910*02 (8353) Thesis II
+NUTR*4910*03 (8354) Thesis II
+NUTR*4910*04 (8355) Thesis II
+NUTR*4910*05 (8356) Thesis II
+OAGR*2070*0101 (8357) Intro to Organic Agriculture
+OAGR*4180*01 (8358) Social Issues in Organic Agr
+PATH*3040*0101 (8373) Principles of Parasitology
+PATH*3610*01 (8374) Principles of Disease
+PBIO*3110*0101 (8376) Crop Physiology
+PBIO*3110*0102 (8377) Crop Physiology
+PBIO*4070*01 (8378) Biological & Cultural Control
+PBIO*4150*01 (8379) Molec & Cellular Asp Plant Dvp
+PBIO*4290*01 (8380) Cannabis Production
+PBIO*4530*01 (8381) Plants & Envirnmtl Pollution
+PBIO*4750*0101 (8382) Genetic Engineering of Plants
+PHIL*1010*0101 (8383) Intro Phil: Soc & Pol Issues
+PHIL*1010*0102 (8384) Intro Phil: Soc & Pol Issues
+PHIL*1010*0103 (8385) Intro Phil: Soc & Pol Issues
+PHIL*1010*0104 (8386) Intro Phil: Soc & Pol Issues
+PHIL*1010*0105 (8387) Intro Phil: Soc & Pol Issues
+PHIL*1010*0106 (8388) Intro Phil: Soc & Pol Issues
+PHIL*1010*0107 (8389) Intro Phil: Soc & Pol Issues
+PHIL*1010*0108 (8390) Intro Phil: Soc & Pol Issues
+PHIL*1010*0109 (8391) Intro Phil: Soc & Pol Issues
+PHIL*1010*0110 (8392) Intro Phil: Soc & Pol Issues
+PHIL*1010*0111 (8393) Intro Phil: Soc & Pol Issues
+PHIL*1010*0112 (8394) Intro Phil: Soc & Pol Issues
+PHIL*1010*DE01 (8395) Intro Phil: Soc & Pol Issues
+PHIL*1030*0101 (8396) Sex, Love, & Friendship
+PHIL*1030*0102 (8397) Sex, Love, & Friendship
+PHIL*1030*0103 (8398) Sex, Love, & Friendship
+PHIL*1030*0104 (8399) Sex, Love, & Friendship
+PHIL*1030*0105 (8400) Sex, Love, & Friendship
+PHIL*1030*0106 (8401) Sex, Love, & Friendship
+PHIL*1030*0107 (8402) Sex, Love, & Friendship
+PHIL*1030*0108 (8403) Sex, Love, & Friendship
+PHIL*1050*0101 (8404) Ethics, Knowledge & Reality
+PHIL*1050*0102 (8405) Ethics, Knowledge & Reality
+PHIL*1050*0103 (8406) Ethics, Knowledge & Reality
+PHIL*1050*0104 (8407) Ethics, Knowledge & Reality
+PHIL*1050*0105 (8408) Ethics, Knowledge & Reality
+PHIL*1050*0106 (8409) Ethics, Knowledge & Reality
+PHIL*2060*01 (8410) Philosophy of Feminism I
+PHIL*2070*0101 (8411) Philosophy of the Environment
+PHIL*2070*0102 (8412) Philosophy of the Environment
+PHIL*2070*0103 (8413) Philosophy of the Environment
+PHIL*2070*0104 (8414) Philosophy of the Environment
+PHIL*2070*0105 (8415) Philosophy of the Environment
+PHIL*2070*0106 (8416) Philosophy of the Environment
+PHIL*2100*0101 (8417) Critical Thinking
+PHIL*2100*0102 (8418) Critical Thinking
+PHIL*2100*0103 (8419) Critical Thinking
+PHIL*2100*0104 (8420) Critical Thinking
+PHIL*2100*0105 (8421) Critical Thinking
+PHIL*2110*01 (8422) Formal Logic
+PHIL*2120*0101 (8423) Ethics
+PHIL*2120*0102 (8424) Ethics
+PHIL*2120*0103 (8425) Ethics
+PHIL*2120*0104 (8426) Ethics
+PHIL*2120*0105 (8427) Ethics
+PHIL*2160*01 (8428) Early Modern Philosophy
+PHIL*2370*01 (8429) Introduction to Metaphysics
+PHIL*2600*01 (8430) Business & Professional Ethics
+PHIL*3050*01 (8431) Philosophy of Art
+PHIL*3060*01 (8432) Medieval Philosophy
+PHIL*3100*01 (8433) Kant & His Legacy
+PHIL*3230*01 (8434) Theories of Justice
+PHIL*3450*01 (8435) Ethics in the Life Sciences
+PHIL*3710*01 (8436) Directed Reading
+PHIL*3710*02 (8437) Directed Reading
+PHIL*3710*03 (8438) Directed Reading
+PHIL*4060*01 (8439) Philosophy of Feminism II
+PHIL*4120*01 (8440) Current Debates in Lang & Mind
+PHIL*4140*01 (8441) Current Debates in Phil of Sci
+PHIL*4420*01 (8442) Major Texts in Philosophy
+PHIL*4710*01 (8443) Directed Reading
+PHIL*4710*02 (8444) Directed Reading
+PHIL*4710*03 (8445) Directed Reading
+PHIL*4710*04 (8446) Directed Reading
+PHIL*4720*01 (8447) Directed Reading
+PHIL*4720*02 (8448) Directed Reading
+PHIL*4720*03 (8449) Directed Reading
+PHIL*4720*04 (8450) Directed Reading
+PHIL*4800*01 (8451) Honours Phil Research Paper I
+PHIL*4800*02 (8452) Honours Phil Research Paper I
+PHIL*4800*03 (8453) Honours Phil Research Paper I
+PHIL*4820*01 (8454) Phil Research Presentation
+PHYS*1010*0101 (8471) Intro Electricity & Magnetism
+PHYS*1010*0102 (8472) Intro Electricity & Magnetism
+PHYS*1010*0103 (8473) Intro Electricity & Magnetism
+PHYS*1010*0104 (8474) Intro Electricity & Magnetism
+PHYS*1010*0105 (8475) Intro Electricity & Magnetism
+PHYS*1010*0106 (8476) Intro Electricity & Magnetism
+PHYS*1010*0107 (8477) Intro Electricity & Magnetism
+PHYS*1010*0108 (8478) Intro Electricity & Magnetism
+PHYS*1010*0109 (8479) Intro Electricity & Magnetism
+PHYS*1010*0110 (8480) Intro Electricity & Magnetism
+PHYS*1010*0111 (8481) Intro Electricity & Magnetism
+PHYS*1010*0112 (8482) Intro Electricity & Magnetism
+PHYS*1010*0113 (8483) Intro Electricity & Magnetism
+PHYS*1010*0116 (8484) Intro Electricity & Magnetism
+PHYS*1010*0201 (8485) Intro Electricity & Magnetism
+PHYS*1010*0202 (8486) Intro Electricity & Magnetism
+PHYS*1010*0203 (8487) Intro Electricity & Magnetism
+PHYS*1010*0204 (8488) Intro Electricity & Magnetism
+PHYS*1010*0205 (8489) Intro Electricity & Magnetism
+PHYS*1010*0206 (8490) Intro Electricity & Magnetism
+PHYS*1010*0207 (8491) Intro Electricity & Magnetism
+PHYS*1010*0208 (8492) Intro Electricity & Magnetism
+PHYS*1010*0209 (8493) Intro Electricity & Magnetism
+PHYS*1010*0210 (8494) Intro Electricity & Magnetism
+PHYS*1010*0212 (8495) Intro Electricity & Magnetism
+PHYS*1010*0213 (9240) Intro Electricity & Magnetism
+PHYS*1010*0215 (8497) Intro Electricity & Magnetism
+PHYS*1010*0217 (8498) Intro Electricity & Magnetism
+PHYS*1070*0101 (8499) Physics for Life Sciences II
+PHYS*1070*0201 (8500) Physics for Life Sciences II
+PHYS*1070*0301 (8501) Physics for Life Sciences II
+PHYS*1080*01 (8502) Physics for Life Sciences
+PHYS*1080*02 (8503) Physics for Life Sciences
+PHYS*1080*03 (8504) Physics for Life Sciences
+PHYS*2030*0101 (8505) Biophysics of Excitable Cells
+PHYS*2030*0102 (8506) Biophysics of Excitable Cells
+PHYS*2180*0102 (8508) Experimental Techs in Physics
+PHYS*2180*0103 (8509) Experimental Techs in Physics
+PHYS*2310*0101 (8510) Mechanics I
+PHYS*2340*0101 (8511) Electricity & Magnetism II
+PHYS*3000*01 (8512) Optics
+PHYS*3080*DE01 (8513) Energy
+PHYS*3510*01 (8514) Intermediate Laboratory
+PHYS*4002*01 (8515) Research in Physics
+PHYS*4040*0101 (8516) Quantum Mechanics II
+PHYS*4070*01 (8517) Physics in Medicine
+PHYS*4130*01 (8518) Subatomic Physics
+PHYS*4150*01 (8519) Solid State Physics
+PHYS*4500*01 (8520) Advanced Physics Laboratory
+PHYS*4540*01 (8521) Molecular Biophysics
+POLS*1150*0101 (8539) Understanding Politics
+POLS*1150*0102 (8540) Understanding Politics
+POLS*1150*0103 (8541) Understanding Politics
+POLS*1150*0104 (8542) Understanding Politics
+POLS*1150*0105 (8543) Understanding Politics
+POLS*1150*0106 (8544) Understanding Politics
+POLS*1150*0107 (8545) Understanding Politics
+POLS*1150*0108 (8546) Understanding Politics
+POLS*2000*01 (8547) Political Theory
+POLS*2100*01 (8548) Comparative Politics
+POLS*2150*01 (8549) Gender and Politics
+POLS*2250*01 (8550) Public Admin & Governance
+POLS*2250*DE01 (8551) Public Admin & Governance
+POLS*2300*01 (8552) Cdn Government & Politics
+POLS*2300*DE01 (8553) Cdn Government & Politics
+POLS*2350*01 (8554) Law and Politics
+POLS*3000*01 (8555) Politics of Africa
+POLS*3080*01 (8556) Politics of Latin America
+POLS*3130*01 (8557) Law, Pol & Judicial Process
+POLS*3140*01 (8558) Charter of Rights and Freedoms
+POLS*3160*01 (8559) Global Gender Justice
+POLS*3210*01 (8560) The Constit & Can Federalism
+POLS*3270*01 (8561) Local Government in Ontario
+POLS*3300*DE01 (8562) Governing Criminal Justice
+POLS*3440*DE01 (8563) Corrupt. Scandal & Pol. Ethics
+POLS*3650*0101 (8564) Quanitative Methods
+POLS*3650*0102 (8565) Quanitative Methods
+POLS*3650*0103 (8566) Quanitative Methods
+POLS*3650*0104 (8567) Quanitative Methods
+POLS*3650*0105 (8568) Quanitative Methods
+POLS*3650*0106 (8569) Quanitative Methods
+POLS*3650*0107 (8570) Quanitative Methods
+POLS*3790*01 (8571) Intl Political Economy
+POLS*3850*01 (8572) Experiential Learning in Polit
+POLS*3960*01 (8573) Sel Topics in Political Sci
+POLS*4050*01 (8574) Adv Topics in Law & Politics
+POLS*4050*02 (8976) Adv Topics in Law & Politics
+POLS*4060*01 (8575) Adv Lecture in Law & Politics
+POLS*4070*01 (8576) Courts & Parliament
+POLS*4140*01 (8577) Conceptions of Canada
+POLS*4160*01 (8578) Multi-level Governance/Canada
+POLS*4250*01 (8579) Topics in Public Management
+POLS*4310*01 (8580) Adv Lect Women, Just & Pub Pol
+POLS*4340*01 (8581) Nationalism
+POLS*4710*01 (8582) Topics in Comparative Politics
+POLS*4720*01 (8583) Topics in Intern'l Relations
+POLS*4730*01 (8584) Int Relations of Middle East
+POLS*4900*01 (8585) Seminar in Political Science
+POLS*4900*02 (8586) Seminar in Political Science
+POLS*4910*01 (8587) Sel Topics in Political Sci
+POLS*4930*01 (8588) Selected Topics in Poli Sci
+POLS*4970*01 (8589) Hons. Poli. Sci. Research I
+POLS*4980*01 (8590) Hons. Poli. Sci. Research II
+POPM*3240*01 (8608) Epidemiology
+PORT*1110*01 (8619) Intermediate Portuguese
+PSYC*1000*01 (8620) Introduction to Psychology
+PSYC*1000*DE01 (8621) Introduction to Psychology
+PSYC*1010*01 (8622) Making Sense of Data
+PSYC*1010*02 (8623) Making Sense of Data
+PSYC*1300*0101 (8624) Learning Disabilities
+PSYC*1300*0102 (8625) Learning Disabilities
+PSYC*1400*01 (8626) Mental Health and Well-Being
+PSYC*1500*0101 (8627) Foundational Skills in Psych
+PSYC*1500*0102 (8628) Foundational Skills in Psych
+PSYC*1500*0103 (8629) Foundational Skills in Psych
+PSYC*1500*0104 (8630) Foundational Skills in Psych
+PSYC*1500*0105 (8631) Foundational Skills in Psych
+PSYC*1500*0106 (8632) Foundational Skills in Psych
+PSYC*1500*0107 (8633) Foundational Skills in Psych
+PSYC*1500*0108 (8634) Foundational Skills in Psych
+PSYC*1500*0109 (9194) Foundational Skills in Psych
+PSYC*1500*0110 (9195) Foundational Skills in Psych
+PSYC*2020*01 (8635) Abnormal Psychology
+PSYC*2070*0101 (8636) Teams Leadership & Prof Beh
+PSYC*2070*0102 (8637) Teams Leadership & Prof Beh
+PSYC*2070*0103 (8638) Teams Leadership & Prof Beh
+PSYC*2070*0104 (8639) Teams Leadership & Prof Beh
+PSYC*2070*0105 (8640) Teams Leadership & Prof Beh
+PSYC*2070*0106 (8641) Teams Leadership & Prof Beh
+PSYC*2070*0107 (8642) Teams Leadership & Prof Beh
+PSYC*2070*0108 (8643) Teams Leadership & Prof Beh
+PSYC*2310*01 (8644) Social Psychology
+PSYC*2360*0101 (8645) Psych Methods & Statistics
+PSYC*2360*0102 (8646) Psych Methods & Statistics
+PSYC*2360*0103 (8647) Psych Methods & Statistics
+PSYC*2360*0104 (8648) Psych Methods & Statistics
+PSYC*2360*0105 (8649) Psych Methods & Statistics
+PSYC*2360*0106 (8650) Psych Methods & Statistics
+PSYC*2360*0107 (8651) Psych Methods & Statistics
+PSYC*2390*01 (8652) Sensation and Perception
+PSYC*2450*DE01 (8653) Developmental Psychology
+PSYC*2650*01 (8654) Cognitive Psychology
+PSYC*2740*01 (8655) Personality
+PSYC*3000*01 (8656) Historical & Crit Persp on Psy
+PSYC*3030*01 (8657) Neurochem Basis of Behaviour
+PSYC*3110*01 (8658) Topics in Health Psychology
+PSYC*3240*01 (8659) Independent Research
+PSYC*3250*01 (8660) Psychological Measurement
+PSYC*3290*0101 (8661) Statistical Analysis in Psych
+PSYC*3290*0102 (8662) Statistical Analysis in Psych
+PSYC*3290*0103 (8663) Statistical Analysis in Psych
+PSYC*3290*0104 (8664) Statistical Analysis in Psych
+PSYC*3290*0105 (8665) Statistical Analysis in Psych
+PSYC*3290*0106 (8666) Statistical Analysis in Psych
+PSYC*3410*0101 (8667) Behavioural Neuroscience II
+PSYC*3410*0102 (8668) Behavioural Neuroscience II
+PSYC*3410*0103 (8669) Behavioural Neuroscience II
+PSYC*3410*0104 (8670) Behavioural Neuroscience II
+PSYC*3410*0105 (8671) Behavioural Neuroscience II
+PSYC*3450*01 (8672) Social-Personality Development
+PSYC*3470*01 (8673) Putting Psychology to Work
+PSYC*3480*DE01 (8674) Psychology of Sport
+PSYC*3800*DE01 (8675) Psychology and Education
+PSYC*3910*01 (8676) Psychology Externship
+PSYC*4240*01 (8677) Adv Independent Research
+PSYC*4460*01 (8679) Adv Top in Clin & App Dvt Psyc
+PSYC*4540*01 (8680) Practical Applications of Psyc
+PSYC*4540*02 (8681) Practical Applications of Psyc
+PSYC*4580*01 (8682) Spec Topics in Behav Sciences
+PSYC*4750*01 (8683) Motivation & Emotion
+PSYC*4870*01 (8684) Honours Thesis I
+PSYC*4880*01 (8685) Honours Thesis II
+REAL*1820*01 (8715) Real Estate and Housing
+REAL*2820*01 (8716) Real Estate Finance
+REAL*2820*02 (8717) Real Estate Finance
+REAL*3880*01 (9123) Topics in Housing
+REAL*3890*01 (8718) Property Management
+REAL*4830*0101 (8719) Real Estate Development Proj
+SART*1050*0101 (8739) Foundation Studio
+SART*1050*0102 (8740) Foundation Studio
+SART*1050*0103 (8741) Foundation Studio
+SART*1060*0101 (8742) Core Studio
+SART*1060*0102 (8743) Core Studio
+SART*1060*0103 (8744) Core Studio
+SART*1150*DE01 (8745) Contemporary Artistic Practice
+SART*2090*01 (8746) Drawing I
+SART*2200*01 (8747) Painting I
+SART*2300*01 (8748) Sculpture I
+SART*2460*01 (8749) Printmaking I
+SART*2610*01 (8750) Photography I
+SART*2710*01 (8751) Digital Media II
+SART*2800*01 (8752) Experimental Studio I
+SART*3090*01 (8753) Drawing II
+SART*3200*01 (8754) Painting II
+SART*3300*01 (8755) Sculpture II
+SART*3470*01 (8756) Printmaking
+SART*3750*01 (8757) Photography II
+SART*3770*01 (8758) Experimental Studio II
+SART*3800*01 (8759) Experiential Learning I
+SART*3900*01 (8760) Experiential Learning II
+SART*4130*01 (8761) Drawing IV
+SART*4240*01 (8762) Painting IV
+SART*4300*01 (8763) Sculpture III
+SART*4330*01 (8764) Sculpture IV
+SART*4470*01 (8765) Printmaking IV
+SART*4720*01 (8766) Photography IV
+SART*4760*01 (8767) Specialized Studio Practice II
+SOAN*2112*01 (8768) Classical Theory
+SOAN*2112*02 (8769) Classical Theory
+SOAN*2120*01 (8770) Introductory Methods
+SOAN*3070*01 (8771) Qualitative & Observational M
+SOAN*3070*02 (8772) Qualitative & Observational M
+SOAN*3130*01 (8773) Protest & Collective Action
+SOAN*4210*01 (8775) Indig. Issues in Cndn Society
+SOAN*4230*01 (8776) Gender & Global Inequality II
+SOAN*4260*01 (8777) Migration, Inequality, Change
+SOAN*4320*01 (8778) Transition: School to Work
+SOAN*4500*01 (8779) Community Development
+SOC*1100*01 (8780) Sociology
+SOC*1100*DE01 (8781) Sociology
+SOC*1500*01 (8782) Crime and Criminal Justice
+SOC*2070*01 (8783) Social Deviance
+SOC*2080*01 (8784) Rural Sociology
+SOC*2700*01 (8785) Criminological Theory
+SOC*3410*01 (8786) Individual and Society
+SOC*3490*01 (8787) Law and Society
+SOC*3710*01 (8788) Youth Justice
+SOC*3730*01 (8789) Courts and Society
+SOC*3750*01 (8790) Police in Society
+SOC*3950*01 (8791) Special Projects in Sociology
+SOC*4010*01 (8792) Violence and Society
+SOC*4010*02 (8793) Violence and Society
+SOC*4010*03 (8794) Violence and Society
+SOC*4200*01 (8795) Advanced Topics in Criminal Ju
+SOC*4200*02 (8796) Advanced Topics in Criminal Ju
+SOC*4200*03 (8797) Advanced Topics in Criminal Ju
+SOC*4230*01 (8798) Comparative Sociology
+SOC*4300*01 (8799) Theoretical & Method. Issues
+SOC*4410*01 (8800) Women, Work & Public Policy
+SOC*4430*01 (8801) Alt Social Possibilities
+SOC*4880*01 (8802) Special Projects in Sociology
+SOC*4890*01 (8803) Special Projects in Sociology
+SOC*4900*01 (8804) Honours Sociology Thesis I
+SOC*4910*01 (8805) Honours Sociology Thesis II
+SPAN*1100*0101 (8820) Introductory Spanish I
+SPAN*1100*0102 (8821) Introductory Spanish I
+SPAN*1100*0103 (8822) Introductory Spanish I
+SPAN*1100*0104 (8823) Introductory Spanish I
+SPAN*1100*0105 (8824) Introductory Spanish I
+SPAN*1100*0106 (8825) Introductory Spanish I
+SPAN*1100*0107 (8826) Introductory Spanish I
+SPAN*1100*0108 (8827) Introductory Spanish I
+SPAN*1100*0201 (8828) Introductory Spanish I
+SPAN*1100*0202 (8829) Introductory Spanish I
+SPAN*1100*0203 (8830) Introductory Spanish I
+SPAN*1100*0204 (8831) Introductory Spanish I
+SPAN*1100*0205 (8832) Introductory Spanish I
+SPAN*1100*0206 (8833) Introductory Spanish I
+SPAN*1100*0207 (8834) Introductory Spanish I
+SPAN*1100*0208 (8835) Introductory Spanish I
+SPAN*1100*DE01 (8836) Introductory Spanish I
+SPAN*1110*0101 (8837) Introductory Spanish II
+SPAN*1110*0102 (8838) Introductory Spanish II
+SPAN*1110*0103 (8839) Introductory Spanish II
+SPAN*1110*0104 (8840) Introductory Spanish II
+SPAN*1110*0105 (8841) Introductory Spanish II
+SPAN*1110*0106 (8842) Introductory Spanish II
+SPAN*1110*0201 (8843) Introductory Spanish II
+SPAN*1110*0202 (8844) Introductory Spanish II
+SPAN*1110*0203 (8845) Introductory Spanish II
+SPAN*1110*0204 (8846) Introductory Spanish II
+SPAN*1110*0205 (8847) Introductory Spanish II
+SPAN*1110*0206 (8848) Introductory Spanish II
+SPAN*2000*0101 (8849) Intermediate Spanish I
+SPAN*2000*0102 (8850) Intermediate Spanish I
+SPAN*2000*0103 (8851) Intermediate Spanish I
+SPAN*2010*0101 (8852) Intermediate Spanish II
+SPAN*2010*0102 (8853) Intermediate Spanish II
+SPAN*2990*01 (8854) Hispanic Literary Studies
+SPAN*3080*01 (8855) Spanish American Culture
+SPAN*3800*01 (8856) Directed Readings in Hisp Stud
+SPAN*4420*01 (8857) Sr Seminar on Spain Or Africa
+SPAN*4500*01 (8858) Spanish Translation
+STAT*2040*01 (8859) Statistics I
+STAT*2040*02 (8860) Statistics I
+STAT*2040*DE01 (8861) Statistics I
+STAT*2050*01 (8862) Statistics II
+STAT*2060*01 (8863) Stats for Business Decisions
+STAT*2090*01 (8864) Intro Applied Statistics II
+STAT*2120*01 (8865) Prob & Stats for Engineers
+STAT*2230*0101 (8866) Biostats for Integrative Biol
+STAT*2230*0102 (8867) Biostats for Integrative Biol
+STAT*2230*0103 (8868) Biostats for Integrative Biol
+STAT*2230*0104 (8869) Biostats for Integrative Biol
+STAT*2230*0105 (8870) Biostats for Integrative Biol
+STAT*3110*01 (8871) Intro Mathematical Stats II
+STAT*3510*01 (8872) Environmental Risk Assessment
+STAT*4050*01 (8873) Topics in Applied Statistics I
+STAT*4060*01 (8874) Topics in Appl Statistics II
+STAT*4340*01 (8875) Statistical Inference
+STAT*4600*01 (8876) Adv Research Project in Stats
+THST*1040*01 (8881) Introduction to Performance
+THST*1190*0101 (8882) Theatre Workshop I
+THST*1270*01 (8883) Theatre Research I
+THST*2050*01 (8884) Devising
+THST*2270*01 (8885) Theatre Research II
+THST*2450*01 (8886) Approaches to Media Studies
+THST*2500*01 (8887) Contemporary Cinema
+THST*3000*0101 (8888) Experiential Learning
+THST*3010*01 (9248) Experiential Learning
+THST*3140*01 (8889) Performance and the Past
+THST*3500*0101 (8890) Performance Praxis I
+THST*4280*0101 (8891) Ensemble Project
+TOX*3360*01 (8894) Environmental Chemistry & Tox
+TOX*4100*0101 (8895) Toxicological Pathology
+TOX*4200*01 (8896) Topics in Toxicology
+TOX*4900*01 (8897) Toxicology Research Project I
+TOX*4910*01 (8898) Toxicology Research Project II
+UNIV*1200*01 (8904) ST: Don't Worry, Be Happy!
+UNIV*1200*02 (8905) ST: Games/Decisions&EconBehav
+UNIV*1200*03 (8906) ST: Dark Tourism
+UNIV*1200*04 (8907) ST: Theatre in Trouble
+UNIV*1200*05 (8908) ST: Jamaica's Impact on Comm
+UNIV*1200*06 (8909) ST: Fighting Spirit
+UNIV*1200*07 (8910) ST: Epic Fail
+UNIV*1200*08 (8911) ST:1/3 of Your Life Eyes Clsd
+UNIV*1200*09 (8912) ST:RepublicLettertoPublicTwee
+UNIV*1200*10 (8913) ST: Art in the 21st Century
+UNIV*1200*11 (8914) ST: Secret Identities
+UNIV*1200*12 (8915) ST: BldngHealthierCommunities
+UNIV*1200*13 (8916) ST: Healthy Communities
+UNIV*1200*14 (8917) ST:HealthyPeopleAnimalsEnviro
+UNIV*1200*15 (8918) ST: Communicating Effectively
+UNIV*1200*16 (8919) ST:Exploring Creative Process
+UNIV*1200*17 (8920) ST: MagicalWorldofButterflies
+UNIV*1200*18 (9135) ST:Scientist&Resrch Interests
+UNIV*1200*19 (9136) ST: Meddling with Pedaling
+UNIV*1200*20 (9137) ST: The Arts in Motion
+UNIV*1200*21 (9162) ST: Illuminated Manuscripts
+UNIV*1200*22 (9166) ST:How Will We Eat on Mars
+UNIV*1200*23 (9171) ST:You Be The Judge
+UNIV*1250*01 (8921) Exper Lrn Op I: Peer Helper
+UNIV*1260*01 (8922) Exper Lrn Op II: Peer Helper
+UNIV*2100*DE01 (8923) Career Ready
+UNIV*2250*01 (8924) Exper Lrn Op III: Peer Helper
+UNIV*2260*01 (8925) Exper Lrn Op IV: Peer Helper
+UNIV*3140*01 (8926) Flex Internship in Agri-Food
+UNIV*4200*01 (8927) IDEAS Congress
+UNIV*4210*01 (8928) IDEAS Congress
+VETM*3070*0101 (5123) Veterinary Anatomy
+VETM*3070*0102 (5124) Veterinary Anatomy
+VETM*3070*0103 (5125) Veterinary Anatomy
+VETM*3070*0104 (5126) Veterinary Anatomy
+VETM*3080*0101 (5127) Vet Physiology & Biochemistry
+VETM*3080*0102 (5128) Vet Physiology & Biochemistry
+VETM*3080*0103 (5129) Vet Physiology & Biochemistry
+VETM*3080*0104 (5130) Vet Physiology & Biochemistry
+VETM*3120*0101 (5131) Vet Histology & General Path
+VETM*3120*0102 (5132) Vet Histology & General Path
+VETM*3120*0103 (5133) Vet Histology & General Path
+VETM*3120*0104 (5134) Vet Histology & General Path
+VETM*3210*0101 (5135) Art of Veterinary Medicine I
+VETM*3210*0102 (5136) Art of Veterinary Medicine I
+VETM*3210*0103 (5137) Art of Veterinary Medicine I
+VETM*3210*0104 (5138) Art of Veterinary Medicine I
+VETM*3220*0101 (5139) Art of Veterinary Medicine II
+VETM*3220*0102 (5140) Art of Veterinary Medicine II
+VETM*3220*0103 (5141) Art of Veterinary Medicine II
+VETM*3220*0104 (5142) Art of Veterinary Medicine II
+VETM*3390*01 (5143) Developmental Biology
+VETM*3400*0101 (5144) Health Management I
+VETM*3400*0102 (5145) Health Management I
+VETM*3400*0103 (5146) Health Management I
+VETM*3400*0104 (5147) Health Management I
+VETM*3410*0101 (5148) Health Management II
+VETM*3410*0102 (5149) Health Management II
+VETM*3410*0103 (5150) Health Management II
+VETM*3410*0104 (5151) Health Management II
+VETM*3430*0101 (5152) Clinical Medicine I
+VETM*3430*0102 (5153) Clinical Medicine I
+VETM*3430*0103 (5154) Clinical Medicine I
+VETM*3430*0104 (5155) Clinical Medicine I
+VETM*3440*0101 (5156) Clinical Medicine II
+VETM*3440*0102 (5157) Clinical Medicine II
+VETM*3440*0103 (5158) Clinical Medicine II
+VETM*3440*0104 (5159) Clinical Medicine II
+VETM*3450*0101 (5160) Principles of Disease: Vet Med
+VETM*3450*0102 (5161) Principles of Disease: Vet Med
+VETM*3450*0103 (5162) Principles of Disease: Vet Med
+VETM*3450*0104 (5163) Principles of Disease: Vet Med
+VETM*3460*0101 (5164) Theriogenology
+VETM*3460*0102 (5165) Theriogenology
+VETM*3460*0103 (5166) Theriogenology
+VETM*3460*0104 (5167) Theriogenology
+VETM*3470*0101 (5168) Anaesthesiology/Pharmacology
+VETM*3470*0102 (5169) Anaesthesiology/Pharmacology
+VETM*3470*0103 (5170) Anaesthesiology/Pharmacology
+VETM*3470*0104 (5171) Anaesthesiology/Pharmacology
+VETM*3510*0101 (5172) Principles of Surgery
+VETM*3510*0102 (5173) Principles of Surgery
+VETM*3510*0103 (5174) Principles of Surgery
+VETM*3510*0104 (5175) Principles of Surgery
+VETM*4220*0101 (5176) Art of Veterinary Medicine III
+VETM*4220*0102 (5177) Art of Veterinary Medicine III
+VETM*4220*0103 (5178) Art of Veterinary Medicine III
+VETM*4220*0104 (5179) Art of Veterinary Medicine III
+VETM*4420*01 (5180) Clinical Pharmacology
+VETM*4450*01 (5181) Equine Medicine and Surgery
+VETM*4460*01 (5182) Food Animal Medicine & Surgery
+VETM*4470*01 (5183) Medicine & Surgery: Dog & Cat
+VETM*4480*0101 (5184) Comparative Medicine
+VETM*4480*0102 (5185) Comparative Medicine
+VETM*4480*0103 (5186) Comparative Medicine
+VETM*4480*0104 (5187) Comparative Medicine
+VETM*4490*0101 (5188) Systems Pathology
+VETM*4490*0102 (5189) Systems Pathology
+VETM*4490*0103 (5190) Systems Pathology
+VETM*4490*0104 (5191) Systems Pathology
+VETM*4530*01 (5192) Health Management III
+VETM*4540*0101 (5193) Surgical Exercises
+VETM*4540*0102 (5194) Surgical Exercises
+VETM*4540*0103 (5195) Surgical Exercises
+VETM*4540*0104 (5196) Surgical Exercises
+VETM*4610*01 (5197) Small Animal Stream
+VETM*4660*01 (5198) Rural Commun Practice Stream
+VETM*4710*01 (5199) Food Animal Stream
+VETM*4870*0101 (5200) Clinical Medicine III
+VETM*4870*0102 (5201) Clinical Medicine III
+VETM*4870*0103 (5202) Clinical Medicine III
+VETM*4870*0104 (5203) Clinical Medicine III
+VETM*4900*01 (5204) Veterinary Externship
+VETM*4920*01 (5205) Equine Stream
+WMST*2000*01 (8943) Women and Representation
+ZOO*2700*0101 (8951) Invert Morphology & Evolution
+ZOO*2700*0102 (8952) Invert Morphology & Evolution
+ZOO*2700*0103 (8953) Invert Morphology & Evolution
+ZOO*2700*0104 (8954) Invert Morphology & Evolution
+ZOO*3050*0101 (8955) Developmental Biology
+ZOO*3050*0102 (8956) Developmental Biology
+ZOO*3050*0103 (8957) Developmental Biology
+ZOO*3050*0104 (8958) Developmental Biology
+ZOO*3620*01 (8959) Comparative Animal Phys II
+ZOO*3630*0101 (8960) Lab Studies in Animal Phys II
+ZOO*3630*0102 (8961) Lab Studies in Animal Phys II
+ZOO*3630*0103 (8962) Lab Studies in Animal Phys II
+ZOO*4170*0101 (8963) Experimental Comp Animal Phys
+ZOO*4170*0102 (8964) Experimental Comp Animal Phys
+ZOO*4330*0101 (8965) Biology of Fishes
+ZOO*4330*0102 (8966) Biology of Fishes
+ZOO*4570*0101 (8967) Marine Ecological Processes
+ZOO*4940*0101 (8968) Lab Studies in Herpetology
+ZOO*4940*0102 (8969) Lab Studies in Herpetology
+ZOO*4950*0101 (8970) Lab Studies in Mammalogy
+ZOO*4950*0102 (8971) Lab Studies in Mammalogy
